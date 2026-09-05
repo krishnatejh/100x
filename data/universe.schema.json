@@ -20,7 +20,7 @@
           "currency": {"type": "string", "pattern": "^[A-Z]{3}$"},
           "sector": {"type": "string", "minLength": 1},
           "status": {"enum": ["CORE", "WATCH", "FRONTIER", "REJECTED"]},
-          "action": {"enum": ["ACCUMULATE", "ACCUMULATE_ON_CORRECTION", "WAIT", "HOLD", "REVIEW", "TRIM", "EXIT"]},
+          "action": {"enum": ["ACCUMULATE", "ACCUMULATE_ON_CORRECTION", "ACCUMULATE_SLOWLY", "WAIT", "HOLD", "REVIEW", "TRIM", "EXIT"]},
           "research_path": {"type": ["string", "null"]},
           "last_reviewed": {"type": "string", "format": "date"},
           "scores": {
@@ -28,10 +28,10 @@
             "required": ["business_potential", "probability_of_success", "investment_attractiveness", "overall_100x"],
             "additionalProperties": false,
             "properties": {
-              "business_potential": {"type": "number", "minimum": 0, "maximum": 10},
-              "probability_of_success": {"type": "number", "minimum": 0, "maximum": 10},
-              "investment_attractiveness": {"type": "number", "minimum": 0, "maximum": 10},
-              "overall_100x": {"type": "number", "minimum": 0, "maximum": 10}
+              "business_potential": {"type": ["number", "null"], "minimum": 0, "maximum": 10},
+              "probability_of_success": {"type": ["number", "null"], "minimum": 0, "maximum": 10},
+              "investment_attractiveness": {"type": ["number", "null"], "minimum": 0, "maximum": 10},
+              "overall_100x": {"type": ["number", "null"], "minimum": 0, "maximum": 10}
             }
           }
         }
