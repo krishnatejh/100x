@@ -1,23 +1,28 @@
 # 100X Dashboard
 
-> Initial skeleton. Detailed company research lives under `companies/`.
+The dashboard is a navigation and decision layer, not a second source of investment data.
 
-## Current Universe
+## Artha view
 
-| Company | Status | Action | Business Potential | Probability | Investment Attractiveness | Overall 100X Score | Last Reviewed |
-|---|---|---|---:|---:|---:|---:|---|
-| Kaynes Technology | CORE* | *To be populated* | — | — | — | — | 2026-09-05 |
+Artha should consume `data/universe.json` and dynamically create four tabs by filtering the single `status` field:
 
-\* Example company only. Classification is a placeholder for repository design and is not a fresh investment recommendation.
+- **CORE**
+- **WATCH**
+- **FRONTIER**
+- **REJECTED**
 
-## Status hierarchy
+Each table row should link to the corresponding company research Markdown file using the `research_file` field in the company record.
 
-**CORE → WATCH → FRONTIER → REJECTED**
+## Data ownership
 
-## Action dimension
+- `data/universe.json` — canonical current structured data.
+- `companies/india/` — detailed India company research.
+- `companies/usa/` — detailed USA company research.
+- `research/` — dated research events and changes.
+- Git history — complete historical record of changes.
 
-Status and action are deliberately separate. A company can be CORE while the appropriate action is, for example, Accumulate, Hold, Wait for valuation, or Do not add.
+There should be no manually maintained CORE/WATCH/FRONTIER/REJECTED company lists in the repository.
 
-## Key principle
+## Identity
 
-The dashboard is a navigation and decision layer, not the detailed research record.
+The canonical security `id` is the **ISIN**. Ticker is a display/trading identifier. Exchange is not part of the core identity model. Initial geography scope: **India and USA**.
