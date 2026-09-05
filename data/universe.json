@@ -12,12 +12,12 @@
       "status": "CORE",
       "action": "ACCUMULATE_SLOWLY",
       "research_path": "companies/india/azad-engineering.md",
-      "last_reviewed": "2026-08-13",
+      "last_reviewed": "2026-09-05",
       "scores": {
-        "business_potential": null,
-        "probability_of_success": null,
-        "investment_attractiveness": null,
-        "overall_100x": null
+        "business_potential": 8.8,
+        "probability_of_success": 7.0,
+        "investment_attractiveness": 4.0,
+        "overall_100x": 7.0
       }
     },
     {
@@ -30,12 +30,12 @@
       "status": "CORE",
       "action": "ACCUMULATE",
       "research_path": "companies/india/cyient-dlm.md",
-      "last_reviewed": "2026-08-13",
+      "last_reviewed": "2026-09-05",
       "scores": {
-        "business_potential": null,
-        "probability_of_success": null,
-        "investment_attractiveness": null,
-        "overall_100x": null
+        "business_potential": 8.0,
+        "probability_of_success": 6.5,
+        "investment_attractiveness": 4.0,
+        "overall_100x": 6.5
       }
     },
     {
@@ -48,12 +48,12 @@
       "status": "CORE",
       "action": "WAIT",
       "research_path": "companies/india/indo-mim.md",
-      "last_reviewed": "2026-08-13",
+      "last_reviewed": "2026-09-05",
       "scores": {
-        "business_potential": null,
-        "probability_of_success": null,
-        "investment_attractiveness": null,
-        "overall_100x": null
+        "business_potential": 9.0,
+        "probability_of_success": 8.0,
+        "investment_attractiveness": 3.5,
+        "overall_100x": 6.8
       }
     },
     {
@@ -84,12 +84,12 @@
       "status": "CORE",
       "action": "ACCUMULATE",
       "research_path": "companies/india/pg-electroplast.md",
-      "last_reviewed": "2026-08-13",
+      "last_reviewed": "2026-09-05",
       "scores": {
-        "business_potential": null,
-        "probability_of_success": null,
-        "investment_attractiveness": null,
-        "overall_100x": null
+        "business_potential": 8.5,
+        "probability_of_success": 7.0,
+        "investment_attractiveness": 5.0,
+        "overall_100x": 6.8
       }
     },
     {
@@ -102,12 +102,12 @@
       "status": "CORE",
       "action": "ACCUMULATE_SLOWLY",
       "research_path": "companies/india/syrma-sgs.md",
-      "last_reviewed": "2026-08-13",
+      "last_reviewed": "2026-09-05",
       "scores": {
-        "business_potential": null,
-        "probability_of_success": null,
-        "investment_attractiveness": null,
-        "overall_100x": null
+        "business_potential": 8.5,
+        "probability_of_success": 7.0,
+        "investment_attractiveness": 4.0,
+        "overall_100x": 6.5
       }
     }
   ]
