@@ -3,6 +3,60 @@
   "countries": ["India", "USA"],
   "companies": [
     {
+      "id": "INE02IJ01035",
+      "name": "Azad Engineering",
+      "ticker": "AZAD",
+      "country": "India",
+      "currency": "INR",
+      "sector": "Precision Engineering / Aerospace",
+      "status": "CORE",
+      "action": "ACCUMULATE_SLOWLY",
+      "research_path": "companies/india/azad-engineering.md",
+      "last_reviewed": "2026-08-13",
+      "scores": {
+        "business_potential": null,
+        "probability_of_success": null,
+        "investment_attractiveness": null,
+        "overall_100x": null
+      }
+    },
+    {
+      "id": "INE055S01018",
+      "name": "Cyient DLM",
+      "ticker": "CYIENTDLM",
+      "country": "India",
+      "currency": "INR",
+      "sector": "Aerospace / Defence Electronics",
+      "status": "CORE",
+      "action": "ACCUMULATE",
+      "research_path": "companies/india/cyient-dlm.md",
+      "last_reviewed": "2026-08-13",
+      "scores": {
+        "business_potential": null,
+        "probability_of_success": null,
+        "investment_attractiveness": null,
+        "overall_100x": null
+      }
+    },
+    {
+      "id": "INE084101034",
+      "name": "Indo-MIM",
+      "ticker": "INDOMIM",
+      "country": "India",
+      "currency": "INR",
+      "sector": "Precision Manufacturing / MIM",
+      "status": "CORE",
+      "action": "WAIT",
+      "research_path": "companies/india/indo-mim.md",
+      "last_reviewed": "2026-08-13",
+      "scores": {
+        "business_potential": null,
+        "probability_of_success": null,
+        "investment_attractiveness": null,
+        "overall_100x": null
+      }
+    },
+    {
       "id": "INE864I01014",
       "name": "MTAR Technologies",
       "ticker": "MTARTECH",
@@ -18,6 +72,42 @@
         "probability_of_success": 6.5,
         "investment_attractiveness": 5.5,
         "overall_100x": 7.0
+      }
+    },
+    {
+      "id": "INE457L01029",
+      "name": "PG Electroplast",
+      "ticker": "PGEL",
+      "country": "India",
+      "currency": "INR",
+      "sector": "EMS / Consumer Durables",
+      "status": "CORE",
+      "action": "ACCUMULATE",
+      "research_path": "companies/india/pg-electroplast.md",
+      "last_reviewed": "2026-08-13",
+      "scores": {
+        "business_potential": null,
+        "probability_of_success": null,
+        "investment_attractiveness": null,
+        "overall_100x": null
+      }
+    },
+    {
+      "id": "INE0DYJ01015",
+      "name": "Syrma SGS Technology",
+      "ticker": "SYRMA",
+      "country": "India",
+      "currency": "INR",
+      "sector": "Electronics Manufacturing",
+      "status": "CORE",
+      "action": "ACCUMULATE_SLOWLY",
+      "research_path": "companies/india/syrma-sgs.md",
+      "last_reviewed": "2026-08-13",
+      "scores": {
+        "business_potential": null,
+        "probability_of_success": null,
+        "investment_attractiveness": null,
+        "overall_100x": null
       }
     }
   ]
