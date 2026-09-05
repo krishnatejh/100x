@@ -1,0 +1,41 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "100X Investment Universe",
+  "type": "object",
+  "required": ["schema_version", "countries", "companies"],
+  "properties": {
+    "schema_version": {"type": "string"},
+    "countries": {"type": "array", "items": {"type": "string"}, "uniqueItems": true},
+    "companies": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["id", "name", "ticker", "country", "currency", "sector", "status", "action", "research_path", "last_reviewed", "scores"],
+        "additionalProperties": false,
+        "properties": {
+          "id": {"type": "string", "pattern": "^[A-Z]{2}[A-Z0-9]{10}$"},
+          "name": {"type": "string", "minLength": 1},
+          "ticker": {"type": "string", "minLength": 1},
+          "country": {"type": "string"},
+          "currency": {"type": "string", "pattern": "^[A-Z]{3}$"},
+          "sector": {"type": "string", "minLength": 1},
+          "status": {"enum": ["CORE", "WATCH", "FRONTIER", "REJECTED"]},
+          "action": {"enum": ["ACCUMULATE", "ACCUMULATE_ON_CORRECTION", "WAIT", "HOLD", "REVIEW", "TRIM", "EXIT"]},
+          "research_path": {"type": ["string", "null"]},
+          "last_reviewed": {"type": "string", "format": "date"},
+          "scores": {
+            "type": "object",
+            "required": ["business_potential", "probability_of_success", "investment_attractiveness", "overall_100x"],
+            "additionalProperties": false,
+            "properties": {
+              "business_potential": {"type": "number", "minimum": 0, "maximum": 10},
+              "probability_of_success": {"type": "number", "minimum": 0, "maximum": 10},
+              "investment_attractiveness": {"type": "number", "minimum": 0, "maximum": 10},
+              "overall_100x": {"type": "number", "minimum": 0, "maximum": 10}
+            }
+          }
+        }
+      }
+    }
+  }
+}
