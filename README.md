@@ -23,3 +23,7 @@ We do not predict 100X winners. We ask what would have to be true for exceptiona
 - `data/` — structured data used for screening and analysis.
 
 The company page is the primary source of truth. Indexes should not contain duplicated detailed thesis information.
+
+## Access
+
+This repository is intentionally **private**. Research, valuation work, investment theses, and decision history are treated as private investment-research material. Authorized GitHub access is used for collaboration and automation; public visibility is not required for the 100X workflow.
