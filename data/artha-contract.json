@@ -1,5 +1,5 @@
 {
-  "contract_version": "1.0",
+  "contract_version": "1.1",
   "source": "data/universe.json",
   "identity": {
     "key": "id",
@@ -20,9 +20,10 @@
     "scores"
   ],
   "statuses": ["CORE", "WATCH", "FRONTIER", "REJECTED"],
-  "actions": ["ACCUMULATE", "ACCUMULATE_ON_CORRECTION", "WAIT", "HOLD", "REVIEW", "TRIM", "EXIT"],
+  "actions": ["ACCUMULATE", "ACCUMULATE_ON_CORRECTION", "ACCUMULATE_SLOWLY", "WAIT", "HOLD", "REVIEW", "TRIM", "EXIT"],
   "score_range": {"min": 0, "max": 10},
   "score_fields": ["business_potential", "probability_of_success", "investment_attractiveness", "overall_100x"],
+  "score_null_policy": "Score values may be null during migration or when a company has not yet completed a formal scoring review. Artha must render such values as Not scored and must not infer or calculate them.",
   "rendering": {
     "tabs": ["CORE", "WATCH", "FRONTIER", "REJECTED"],
     "filter_field": "status",
@@ -35,6 +36,7 @@
     "Artha must not infer status from scores.",
     "Artha must not infer action from status.",
     "Artha must tolerate null optional values without crashing.",
+    "Artha must render null score values as Not scored and must not calculate substitute scores.",
     "Artha must use id/ISIN as the stable company key, not ticker.",
     "Artha must treat unknown future fields as forward-compatible and ignore them unless explicitly supported.",
     "Artha must display last_reviewed so stale research can be identified."
