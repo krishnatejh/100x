@@ -9,28 +9,46 @@
 - **Sector:** Precision Manufacturing / MIM
 - **Status:** CORE
 - **Action:** WAIT
-- **Last reviewed:** 2026-08-13
+- **Last reviewed:** 2026-09-05
 
-## Migration note
+## Investment thesis
 
-This page is the initial migration of the legacy 100X tracker record into the canonical GitHub research structure. It is **not** a replacement for a full primary-source 100X research review.
+Indo-MIM is a global precision-component manufacturer built around metal injection moulding (MIM), with applications across automotive, aerospace, defence, medical and consumer markets. Its scale, global manufacturing footprint, customer qualification and backward integration provide a stronger moat than a typical contract manufacturer.
 
-## Current tracker decision
+## Current evidence
 
-- **Valuation view:** Stretched
-- **Technical status:** Extended / Price Discovery
-- **Accumulation trigger:** Wait for post-IPO price discovery/consolidation or earnings growth to catch up with valuation.
-- **Thesis-break trigger:** Evidence that growth, margins, ROCE or addressable-market assumptions do not support the long-term thesis.
-- **Position guidance:** No meaningful initial allocation while valuation remains stretched; reassess after consolidation.
+FY26 consolidated revenue was about ₹4,321 crore and PAT about ₹534 crore, with ROCE around 26.6%. Q1 FY27 consolidated revenue was ~₹1,219 crore (+9.4% YoY) and PAT ~₹240 crore (+31.6%), with a material margin expansion. The company serves more than 1,100 customers and operates 15 manufacturing facilities globally. citeturn4search1turn4search9turn2search4
 
-## 100X Assessment
+The problem is valuation. Market cap is roughly ₹45,000–48,000 crore and trailing P/E is around 70x. The company is already large relative to our 100X starting-point preference. citeturn4search3turn4search6
 
-The company remains classified as **CORE** in the legacy tracker. The detailed Business Potential, Probability of Success, Investment Attractiveness and Overall 100X scores were not populated in the source tracker at migration and are therefore intentionally left unscored in `data/universe.json` rather than being reconstructed or invented.
+## 100X Score
 
-## Next research work
+- **Business Potential:** 9.0 / 10
+- **Probability of Success:** 8.0 / 10
+- **Investment Attractiveness:** 3.5 / 10
+- **Overall 100X:** 6.8 / 10
 
-Complete primary-source review of the metal-injection-moulding opportunity, global TAM/runway, customer qualification and switching barriers, capacity expansion, margins and ROCE/ROIC, reinvestment runway, balance sheet, 100X market-cap mathematics and the growth already implied by the post-IPO valuation.
+### Why these scores
 
-## Why it could fail
+**Business Potential 9.0:** Global MIM leadership, diversified end markets, high qualification barriers and significant scope for international penetration and higher-value applications.
 
-The central existing concern is that growth, margins, ROCE or addressable-market assumptions may not justify the valuation. The post-IPO price-discovery period also needs to be observed before treating the setup as actionable.
+**Probability 8.0:** Strong historical economics, global customer base and high ROCE materially improve the probability versus smaller early-stage manufacturing candidates. The remaining uncertainty is the durability of growth and the ability to reinvest at high returns from an already large base.
+
+**Investment Attractiveness 3.5:** At ~₹45,000 crore market cap, 100X implies ~₹45 lakh crore. Even at 40x terminal P/E, this needs ~₹1.14 lakh crore PAT; at 20% net margin, ~₹5.7 lakh crore revenue. That is an extreme requirement, while the present valuation already prices in substantial future success.
+
+## Key risks
+
+- Starting market cap is already large for a 100X candidate
+- Valuation / multiple compression
+- Global industrial and automotive cyclicality
+- Customer concentration despite a diversified customer base
+- Need to sustain high ROCE while scaling globally
+
+## Verdict
+
+**CORE — WAIT.** The business is arguably the strongest of the migrated CORE group on quality and moat, but the current starting valuation makes the 100X investment case exceptionally demanding.
+
+## Sources
+
+- NSE FY27 Q1 filing: https://nsearchives.nseindia.com/corporate/ixbrl/INTEGRATED_FILING_INDAS_188122_17082026231002_iXBRL_WEB.html
+- Investor/IPO financial information: https://www.indomim.com/
