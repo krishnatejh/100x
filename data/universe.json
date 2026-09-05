@@ -11,7 +11,7 @@
       "sector": "Precision Engineering / Nuclear / Aerospace",
       "status": "CORE",
       "action": "WAIT",
-      "research_path": "companies/india/mtar-technologies.md",
+      "research_path": null,
       "last_reviewed": "2026-08-30",
       "scores": {
         "business_potential": 8.5,
