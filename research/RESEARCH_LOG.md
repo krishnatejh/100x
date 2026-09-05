@@ -15,6 +15,17 @@ This log records material research events and thesis changes. Git history remain
 - **Decision impact:**
 - **Next review question:**
 
+## 2026-09-05 — CORE universe migration
+
+- **Type:** Research migration / update
+- **Companies:** Azad Engineering; Cyient DLM; Indo-MIM; PG Electroplast; Syrma SGS Technology
+- **Previous status/action:** CORE / ACCUMULATE SLOWLY (Azad); CORE / ACCUMULATE (Cyient DLM); CORE / WAIT (Indo-MIM); CORE / ACCUMULATE (PG Electroplast); CORE / ACCUMULATE SLOWLY (Syrma SGS)
+- **New status/action:** Same as above
+- **What changed:** Migrated the five remaining CORE companies from the legacy tracker into the canonical `data/universe.json` structure and created linked company research pages. Existing tracker actions, valuation views, technical views, accumulation guidance and thesis-break triggers were preserved.
+- **Interpretation:** FACT for migrated tracker decisions. The five companies did not have populated 100X score fields in the source tracker, so no scores were reconstructed or invented.
+- **Decision impact:** CORE classifications retained. Artha can now render all six CORE companies; unscored records should display as Not scored.
+- **Next review question:** Complete formal primary-source research and scoring for each migrated company, then populate Business Potential, Probability of Success, Investment Attractiveness and Overall 100X Score.
+
 ## 2026-09-05 — MTAR Technologies
 
 - **Type:** Research migration / update
