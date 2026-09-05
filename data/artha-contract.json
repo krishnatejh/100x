@@ -1,0 +1,42 @@
+{
+  "contract_version": "1.0",
+  "source": "data/universe.json",
+  "identity": {
+    "key": "id",
+    "type": "ISIN",
+    "unique": true
+  },
+  "required_fields": [
+    "id",
+    "name",
+    "ticker",
+    "country",
+    "currency",
+    "sector",
+    "status",
+    "action",
+    "research_path",
+    "last_reviewed",
+    "scores"
+  ],
+  "statuses": ["CORE", "WATCH", "FRONTIER", "REJECTED"],
+  "actions": ["ACCUMULATE", "ACCUMULATE_ON_CORRECTION", "WAIT", "HOLD", "REVIEW", "TRIM", "EXIT"],
+  "score_range": {"min": 0, "max": 10},
+  "score_fields": ["business_potential", "probability_of_success", "investment_attractiveness", "overall_100x"],
+  "rendering": {
+    "tabs": ["CORE", "WATCH", "FRONTIER", "REJECTED"],
+    "filter_field": "status",
+    "sort_default": "overall_100x_desc",
+    "research_link_field": "research_path"
+  },
+  "rules": [
+    "Artha must treat universe.json as read-only source data.",
+    "Artha must not maintain a second company universe.",
+    "Artha must not infer status from scores.",
+    "Artha must not infer action from status.",
+    "Artha must tolerate null optional values without crashing.",
+    "Artha must use id/ISIN as the stable company key, not ticker.",
+    "Artha must treat unknown future fields as forward-compatible and ignore them unless explicitly supported.",
+    "Artha must display last_reviewed so stale research can be identified."
+  ]
+}
