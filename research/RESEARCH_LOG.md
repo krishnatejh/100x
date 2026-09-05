@@ -15,6 +15,15 @@ This log records material research events and thesis changes. Git history remain
 - **Decision impact:**
 - **Next review question:**
 
+## 2026-09-05 — Re-rating review of CORE + WATCH universe
+
+- **Type:** Re-rating review / research prioritisation
+- **Companies:** E2E Networks; Kaynes Technology; Shivalik Bimetal; Pitti Engineering; Laurus Labs; PG Electroplast; Newgen Software; Cupid; Cyient DLM; remaining CORE universe
+- **What changed:** A comparative review identified a new top-tier research queue. E2E Networks is now the highest-priority WATCH candidate because of its sharp Q1 FY27 AI-infrastructure growth and a reported ₹1,000 Cr binding term sheet for NVIDIA Blackwell GPU infrastructure/services. Kaynes Technology moved high on the queue because of its OSAT/PCB expansion. Shivalik Bimetal and Pitti Engineering also showed strong Q1 FY27 operating momentum. Laurus Labs merits a probability-of-success re-rating review after a major profitability recovery. PG Electroplast requires a CORE refresh, while Newgen and Cupid merit deeper work. Cyient DLM was explicitly placed on a CORE challenge list because return-on-capital and valuation may be less attractive than the best WATCH candidates.
+- **Interpretation:** FACT for reported operating results and announced strategic developments; INFERENCE for the relative research priority and potential re-rating; SPECULATION avoided until 100X mathematics and valuation work is completed.
+- **Decision impact:** No automatic status changes were made. The review is captured in `research/RE_RATING_REVIEW_2026-09-05.md` and establishes the next research sequence. Canonical status/action remains controlled by `data/universe.json`.
+- **Next review question:** Complete E2E and Kaynes full 100X mathematics first, then compare Shivalik/Pitti/PGEL/Laurus/Newgen/Cupid and formally challenge Cyient DLM against the strongest alternatives.
+
 ## 2026-09-05 — CORE scoring and WATCH migration
 
 - **Type:** Research migration / update
