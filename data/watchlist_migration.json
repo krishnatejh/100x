@@ -275,7 +275,8 @@
       },
       "valuation_status": "Unvalidated",
       "technical_status": "Confirmation Needed",
-      "migration_state": "PENDING_ISIN_VERIFICATION"
+      "migration_state": "MIGRATED_CANONICAL",
+      "canonical_name": "Data Patterns (India)"
     },
     {
       "legacy_id": "C073",
@@ -401,7 +402,8 @@
       },
       "valuation_status": "Unvalidated",
       "technical_status": "Confirmation Needed",
-      "migration_state": "PENDING_ISIN_VERIFICATION"
+      "migration_state": "MIGRATED_CANONICAL",
+      "canonical_name": "EMS Limited"
     },
     {
       "legacy_id": "C030",
@@ -422,7 +424,7 @@
       },
       "valuation_status": "Unvalidated",
       "technical_status": "Confirmation Needed",
-      "migration_state": "PENDING_ISIN_VERIFICATION"
+      "migration_state": "MIGRATED_CANONICAL"
     },
     {
       "legacy_id": "C011",
@@ -464,7 +466,8 @@
       },
       "valuation_status": "Unvalidated",
       "technical_status": "Confirmation Needed",
-      "migration_state": "PENDING_ISIN_VERIFICATION"
+      "migration_state": "MIGRATED_CANONICAL",
+      "canonical_name": "KRN Heat Exchanger and Refrigeration"
     },
     {
       "legacy_id": "C058",
@@ -548,7 +551,8 @@
       },
       "valuation_status": "Unvalidated",
       "technical_status": "Confirmation Needed",
-      "migration_state": "PENDING_ISIN_VERIFICATION"
+      "migration_state": "MIGRATED_CANONICAL",
+      "canonical_name": "Netweb Technologies India"
     },
     {
       "legacy_id": "C085",
@@ -653,7 +657,7 @@
       },
       "valuation_status": "Unvalidated",
       "technical_status": "Confirmation Needed",
-      "migration_state": "PENDING_ISIN_VERIFICATION"
+      "migration_state": "MIGRATED_CANONICAL"
     },
     {
       "legacy_id": "C020",
@@ -674,7 +678,7 @@
       },
       "valuation_status": "Unvalidated",
       "technical_status": "Confirmation Needed",
-      "migration_state": "PENDING_ISIN_VERIFICATION"
+      "migration_state": "MIGRATED_CANONICAL"
     },
     {
       "legacy_id": "C029",
@@ -716,7 +720,7 @@
       },
       "valuation_status": "Unvalidated",
       "technical_status": "Confirmation Needed",
-      "migration_state": "PENDING_ISIN_VERIFICATION"
+      "migration_state": "MIGRATED_CANONICAL"
     },
     {
       "legacy_id": "C015",
@@ -758,7 +762,7 @@
       },
       "valuation_status": "Unvalidated",
       "technical_status": "Confirmation Needed",
-      "migration_state": "PENDING_ISIN_VERIFICATION"
+      "migration_state": "MIGRATED_CANONICAL"
     },
     {
       "legacy_id": "C083",
@@ -843,7 +847,7 @@
       },
       "valuation_status": "Unvalidated",
       "technical_status": "Confirmation Needed",
-      "migration_state": "PENDING_ISIN_VERIFICATION"
+      "migration_state": "MIGRATED_CANONICAL"
     },
     {
       "legacy_id": "C044",
@@ -927,7 +931,7 @@
       },
       "valuation_status": "Unvalidated",
       "technical_status": "Confirmation Needed",
-      "migration_state": "PENDING_ISIN_VERIFICATION"
+      "migration_state": "MIGRATED_CANONICAL"
     },
     {
       "legacy_id": "C105",
@@ -991,7 +995,7 @@
       },
       "valuation_status": "Unvalidated",
       "technical_status": "Confirmation Needed",
-      "migration_state": "PENDING_ISIN_VERIFICATION"
+      "migration_state": "MIGRATED_CANONICAL"
     },
     {
       "legacy_id": "C035",
@@ -1181,7 +1185,8 @@
       },
       "valuation_status": "Unvalidated",
       "technical_status": "Confirmation Needed",
-      "migration_state": "PENDING_ISIN_VERIFICATION"
+      "migration_state": "MIGRATED_CANONICAL",
+      "canonical_name": "Yash Highvoltage"
     },
     {
       "legacy_id": "C014",
@@ -1244,7 +1249,7 @@
       },
       "valuation_status": "Unvalidated",
       "technical_status": "Confirmation Needed",
-      "migration_state": "PENDING_ISIN_VERIFICATION"
+      "migration_state": "MIGRATED_CANONICAL"
     }
   ]
 }
