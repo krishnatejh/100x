@@ -1,6 +1,9 @@
 {
   "schema_version": "1.0",
-  "countries": ["India", "USA"],
+  "countries": [
+    "India",
+    "USA"
+  ],
   "companies": [
     {
       "id": "INE02IJ01035",
@@ -15,9 +18,9 @@
       "last_reviewed": "2026-09-05",
       "scores": {
         "business_potential": 8.8,
-        "probability_of_success": 7.0,
-        "investment_attractiveness": 4.0,
-        "overall_100x": 7.0
+        "probability_of_success": 7,
+        "investment_attractiveness": 4,
+        "overall_100x": 7
       }
     },
     {
@@ -32,9 +35,9 @@
       "research_path": "companies/india/cyient-dlm.md",
       "last_reviewed": "2026-09-05",
       "scores": {
-        "business_potential": 8.0,
+        "business_potential": 8,
         "probability_of_success": 6.5,
-        "investment_attractiveness": 4.0,
+        "investment_attractiveness": 4,
         "overall_100x": 6.5
       }
     },
@@ -50,8 +53,8 @@
       "research_path": "companies/india/indo-mim.md",
       "last_reviewed": "2026-09-05",
       "scores": {
-        "business_potential": 9.0,
-        "probability_of_success": 8.0,
+        "business_potential": 9,
+        "probability_of_success": 8,
         "investment_attractiveness": 3.5,
         "overall_100x": 6.8
       }
@@ -71,7 +74,7 @@
         "business_potential": 8.5,
         "probability_of_success": 6.5,
         "investment_attractiveness": 5.5,
-        "overall_100x": 7.0
+        "overall_100x": 7
       }
     },
     {
@@ -87,8 +90,8 @@
       "last_reviewed": "2026-09-05",
       "scores": {
         "business_potential": 8.5,
-        "probability_of_success": 7.0,
-        "investment_attractiveness": 5.0,
+        "probability_of_success": 7,
+        "investment_attractiveness": 5,
         "overall_100x": 6.8
       }
     },
@@ -105,9 +108,243 @@
       "last_reviewed": "2026-09-05",
       "scores": {
         "business_potential": 8.5,
-        "probability_of_success": 7.0,
-        "investment_attractiveness": 4.0,
+        "probability_of_success": 7,
+        "investment_attractiveness": 4,
         "overall_100x": 6.5
+      }
+    },
+    {
+      "id": "INE0LRU01027",
+      "name": "Aarti Pharmalabs",
+      "ticker": "AARTIPHARM",
+      "country": "India",
+      "currency": "INR",
+      "sector": "Pharma",
+      "status": "WATCH",
+      "action": "WAIT",
+      "research_path": null,
+      "last_reviewed": "2026-08-30",
+      "scores": {
+        "business_potential": null,
+        "probability_of_success": null,
+        "investment_attractiveness": null,
+        "overall_100x": null
+      }
+    },
+    {
+      "id": "INE00FF01025",
+      "name": "Acutaas Chemicals",
+      "ticker": "ACUTAAS",
+      "country": "India",
+      "currency": "INR",
+      "sector": "Pharma / CDMO",
+      "status": "WATCH",
+      "action": "REVIEW",
+      "research_path": null,
+      "last_reviewed": "2026-08-30",
+      "scores": {
+        "business_potential": null,
+        "probability_of_success": null,
+        "investment_attractiveness": null,
+        "overall_100x": null
+      }
+    },
+    {
+      "id": "INE024001021",
+      "name": "Aeroflex Industries",
+      "ticker": "AEROFLEX",
+      "country": "India",
+      "currency": "INR",
+      "sector": "Industrial / Specialty Products",
+      "status": "WATCH",
+      "action": "WAIT",
+      "research_path": null,
+      "last_reviewed": "2026-08-30",
+      "scores": {
+        "business_potential": null,
+        "probability_of_success": null,
+        "investment_attractiveness": null,
+        "overall_100x": null
+      }
+    },
+    {
+      "id": "INE371P01015",
+      "name": "Amber Enterprises",
+      "ticker": "AMBER",
+      "country": "India",
+      "currency": "INR",
+      "sector": "Electronics Manufacturing",
+      "status": "WATCH",
+      "action": "WAIT",
+      "research_path": null,
+      "last_reviewed": "2026-08-30",
+      "scores": {
+        "business_potential": null,
+        "probability_of_success": null,
+        "investment_attractiveness": null,
+        "overall_100x": null
+      }
+    },
+    {
+      "id": "INE386C01029",
+      "name": "Astra Microwave",
+      "ticker": "ASTRAMICRO",
+      "country": "India",
+      "currency": "INR",
+      "sector": "Defence Electronics",
+      "status": "WATCH",
+      "action": "WAIT",
+      "research_path": null,
+      "last_reviewed": "2026-08-30",
+      "scores": {
+        "business_potential": null,
+        "probability_of_success": null,
+        "investment_attractiveness": null,
+        "overall_100x": null
+      }
+    },
+    {
+      "id": "INE290S01011",
+      "name": "CarTrade Tech",
+      "ticker": "CARTRADE",
+      "country": "India",
+      "currency": "INR",
+      "sector": "Digital Marketplace",
+      "status": "WATCH",
+      "action": "WAIT",
+      "research_path": null,
+      "last_reviewed": "2026-08-30",
+      "scores": {
+        "business_potential": null,
+        "probability_of_success": null,
+        "investment_attractiveness": null,
+        "overall_100x": null
+      }
+    },
+    {
+      "id": "INE753U01022",
+      "name": "Divgi TorqTransfer Systems",
+      "ticker": "DIVGIITTS",
+      "country": "India",
+      "currency": "INR",
+      "sector": "Auto Components",
+      "status": "WATCH",
+      "action": "WAIT",
+      "research_path": null,
+      "last_reviewed": "2026-08-30",
+      "scores": {
+        "business_potential": null,
+        "probability_of_success": null,
+        "investment_attractiveness": null,
+        "overall_100x": null
+      }
+    },
+    {
+      "id": "INE600Y01019",
+      "name": "Dynamic Cables",
+      "ticker": "DYCL",
+      "country": "India",
+      "currency": "INR",
+      "sector": "Cables / Power Components",
+      "status": "WATCH",
+      "action": "WAIT",
+      "research_path": null,
+      "last_reviewed": "2026-08-30",
+      "scores": {
+        "business_potential": null,
+        "probability_of_success": null,
+        "investment_attractiveness": null,
+        "overall_100x": null
+      }
+    },
+    {
+      "id": "INE221B01012",
+      "name": "Dynamatic Technologies",
+      "ticker": "DYNAMATECH",
+      "country": "India",
+      "currency": "INR",
+      "sector": "Aerospace / Precision Engineering",
+      "status": "WATCH",
+      "action": "WAIT",
+      "research_path": null,
+      "last_reviewed": "2026-08-30",
+      "scores": {
+        "business_potential": null,
+        "probability_of_success": null,
+        "investment_attractiveness": null,
+        "overall_100x": null
+      }
+    },
+    {
+      "id": "INE918Z01012",
+      "name": "Kaynes Technology",
+      "ticker": "KAYNES",
+      "country": "India",
+      "currency": "INR",
+      "sector": "Electronics Manufacturing",
+      "status": "WATCH",
+      "action": "WAIT",
+      "research_path": null,
+      "last_reviewed": "2026-08-30",
+      "scores": {
+        "business_potential": null,
+        "probability_of_success": null,
+        "investment_attractiveness": null,
+        "overall_100x": null
+      }
+    },
+    {
+      "id": "INE947Q01028",
+      "name": "Laurus Labs",
+      "ticker": "LAURUSLABS",
+      "country": "India",
+      "currency": "INR",
+      "sector": "Pharma / CDMO",
+      "status": "WATCH",
+      "action": "WAIT",
+      "research_path": null,
+      "last_reviewed": "2026-08-30",
+      "scores": {
+        "business_potential": null,
+        "probability_of_success": null,
+        "investment_attractiveness": null,
+        "overall_100x": null
+      }
+    },
+    {
+      "id": "INE794A01010",
+      "name": "Neuland Laboratories",
+      "ticker": "NEULANDLAB",
+      "country": "India",
+      "currency": "INR",
+      "sector": "Pharma / CDMO",
+      "status": "WATCH",
+      "action": "REVIEW",
+      "research_path": null,
+      "last_reviewed": "2026-08-30",
+      "scores": {
+        "business_potential": null,
+        "probability_of_success": null,
+        "investment_attractiveness": null,
+        "overall_100x": null
+      }
+    },
+    {
+      "id": "INE386D01027",
+      "name": "Shivalik Bimetal Controls",
+      "ticker": "SBCL",
+      "country": "India",
+      "currency": "INR",
+      "sector": "Advanced Materials / Precision Components",
+      "status": "WATCH",
+      "action": "WAIT",
+      "research_path": null,
+      "last_reviewed": "2026-08-30",
+      "scores": {
+        "business_potential": null,
+        "probability_of_success": null,
+        "investment_attractiveness": null,
+        "overall_100x": null
       }
     }
   ]
