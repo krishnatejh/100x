@@ -346,6 +346,150 @@
         "investment_attractiveness": null,
         "overall_100x": null
       }
+    },
+    {
+      "id": "INE0LCL01028",
+      "name": "Avalon Technologies",
+      "ticker": "AVALON",
+      "country": "India",
+      "currency": "INR",
+      "sector": "Electronics Manufacturing",
+      "status": "WATCH",
+      "action": "WAIT",
+      "research_path": null,
+      "last_reviewed": "2026-08-30",
+      "scores": {
+        "business_potential": null,
+        "probability_of_success": null,
+        "investment_attractiveness": null,
+        "overall_100x": null
+      }
+    },
+    {
+      "id": "INE1C6T01020",
+      "name": "Emmvee Photovoltaic Power",
+      "ticker": "EMMVEE",
+      "country": "India",
+      "currency": "INR",
+      "sector": "Solar / Manufacturing",
+      "status": "WATCH",
+      "action": "WAIT",
+      "research_path": null,
+      "last_reviewed": "2026-08-30",
+      "scores": {
+        "business_potential": null,
+        "probability_of_success": null,
+        "investment_attractiveness": null,
+        "overall_100x": null
+      }
+    },
+    {
+      "id": "INE713T01028",
+      "name": "Apollo Micro Systems",
+      "ticker": "APOLLO",
+      "country": "India",
+      "currency": "INR",
+      "sector": "Defence Electronics / Embedded Systems",
+      "status": "WATCH",
+      "action": "WAIT",
+      "research_path": null,
+      "last_reviewed": "2026-08-30",
+      "scores": {
+        "business_potential": null,
+        "probability_of_success": null,
+        "investment_attractiveness": null,
+        "overall_100x": null
+      }
+    },
+    {
+      "id": "INE377N01017",
+      "name": "Waaree Energies",
+      "ticker": "WAAREEENER",
+      "country": "India",
+      "currency": "INR",
+      "sector": "Solar / Manufacturing",
+      "status": "WATCH",
+      "action": "WAIT",
+      "research_path": null,
+      "last_reviewed": "2026-08-30",
+      "scores": {
+        "business_potential": null,
+        "probability_of_success": null,
+        "investment_attractiveness": null,
+        "overall_100x": null
+      }
+    },
+    {
+      "id": "INE299N01021",
+      "name": "Waaree Renewable Technologies",
+      "ticker": "WAAREERTL",
+      "country": "India",
+      "currency": "INR",
+      "sector": "Renewable Energy",
+      "status": "WATCH",
+      "action": "WAIT",
+      "research_path": null,
+      "last_reviewed": "2026-08-30",
+      "scores": {
+        "business_potential": null,
+        "probability_of_success": null,
+        "investment_attractiveness": null,
+        "overall_100x": null
+      }
+    },
+    {
+      "id": "INE024F01011",
+      "name": "Shilchar Technologies",
+      "ticker": "SHILCTECH",
+      "country": "India",
+      "currency": "INR",
+      "sector": "Power / Transformers",
+      "status": "WATCH",
+      "action": "WAIT",
+      "research_path": null,
+      "last_reviewed": "2026-08-30",
+      "scores": {
+        "business_potential": null,
+        "probability_of_success": null,
+        "investment_attractiveness": null,
+        "overall_100x": null
+      }
+    },
+    {
+      "id": "INE419M01019",
+      "name": "TD Power Systems",
+      "ticker": "TDPOWERSYS",
+      "country": "India",
+      "currency": "INR",
+      "sector": "Power Generation / Electrification",
+      "status": "WATCH",
+      "action": "REVIEW",
+      "research_path": null,
+      "last_reviewed": "2026-08-30",
+      "scores": {
+        "business_potential": null,
+        "probability_of_success": null,
+        "investment_attractiveness": null,
+        "overall_100x": null
+      }
+    },
+    {
+      "id": "INE285K01026",
+      "name": "Techno Electric",
+      "ticker": "TECHNOE",
+      "country": "India",
+      "currency": "INR",
+      "sector": "Power Infrastructure",
+      "status": "WATCH",
+      "action": "WAIT",
+      "research_path": null,
+      "last_reviewed": "2026-08-30",
+      "scores": {
+        "business_potential": null,
+        "probability_of_success": null,
+        "investment_attractiveness": null,
+        "overall_100x": null
+      }
     }
   ]
 }
