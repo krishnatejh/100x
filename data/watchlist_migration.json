@@ -191,7 +191,7 @@
       },
       "valuation_status": "Unvalidated",
       "technical_status": "Confirmation Needed",
-      "migration_state": "PENDING_ISIN_VERIFICATION"
+      "migration_state": "MIGRATED_CANONICAL"
     },
     {
       "legacy_id": "C022",
@@ -359,7 +359,7 @@
       },
       "valuation_status": "Unvalidated",
       "technical_status": "Confirmation Needed",
-      "migration_state": "PENDING_ISIN_VERIFICATION"
+      "migration_state": "MIGRATED_CANONICAL"
     },
     {
       "legacy_id": "C069",
@@ -590,7 +590,7 @@
       },
       "valuation_status": "Unvalidated",
       "technical_status": "Confirmation Needed",
-      "migration_state": "PENDING_ISIN_VERIFICATION"
+      "migration_state": "MIGRATED_CANONICAL"
     },
     {
       "legacy_id": "C078",
@@ -737,7 +737,7 @@
       },
       "valuation_status": "Unvalidated",
       "technical_status": "Confirmation Needed",
-      "migration_state": "PENDING_ISIN_VERIFICATION"
+      "migration_state": "MIGRATED_CANONICAL"
     },
     {
       "legacy_id": "C081",
@@ -1202,7 +1202,7 @@
       },
       "valuation_status": "Unvalidated",
       "technical_status": "Confirmation Needed",
-      "migration_state": "PENDING_ISIN_VERIFICATION"
+      "migration_state": "MIGRATED_CANONICAL"
     },
     {
       "legacy_id": "C107",
