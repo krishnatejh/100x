@@ -580,6 +580,258 @@
         "investment_attractiveness": null,
         "overall_100x": null
       }
+    },
+    {
+      "id": "INE711A01022",
+      "name": "Data Patterns (India)",
+      "ticker": "DATAPATTERNS",
+      "country": "India",
+      "currency": "INR",
+      "sector": "Defence Electronics",
+      "status": "WATCH",
+      "action": "WAIT",
+      "research_path": null,
+      "last_reviewed": "2026-08-30",
+      "scores": {
+        "business_potential": null,
+        "probability_of_success": null,
+        "investment_attractiveness": null,
+        "overall_100x": null
+      }
+    },
+    {
+      "id": "INE126A01031",
+      "name": "EMS Limited",
+      "ticker": "EMSLTD",
+      "country": "India",
+      "currency": "INR",
+      "sector": "Water Infrastructure",
+      "status": "WATCH",
+      "action": "WAIT",
+      "research_path": null,
+      "last_reviewed": "2026-08-30",
+      "scores": {
+        "business_potential": null,
+        "probability_of_success": null,
+        "investment_attractiveness": null,
+        "overall_100x": null
+      }
+    },
+    {
+      "id": "INE330T01021",
+      "name": "Happy Forgings",
+      "ticker": "HAPPYFORG",
+      "country": "India",
+      "currency": "INR",
+      "sector": "Auto / Precision Components",
+      "status": "WATCH",
+      "action": "REVIEW",
+      "research_path": null,
+      "last_reviewed": "2026-08-30",
+      "scores": {
+        "business_potential": null,
+        "probability_of_success": null,
+        "investment_attractiveness": null,
+        "overall_100x": null
+      }
+    },
+    {
+      "id": "INE06K201020",
+      "name": "KRN Heat Exchanger and Refrigeration",
+      "ticker": "KRN",
+      "country": "India",
+      "currency": "INR",
+      "sector": "HVAC Components",
+      "status": "WATCH",
+      "action": "WAIT",
+      "research_path": null,
+      "last_reviewed": "2026-08-30",
+      "scores": {
+        "business_potential": null,
+        "probability_of_success": null,
+        "investment_attractiveness": null,
+        "overall_100x": null
+      }
+    },
+    {
+      "id": "INE754A01055",
+      "name": "Netweb Technologies India",
+      "ticker": "NETWEB",
+      "country": "India",
+      "currency": "INR",
+      "sector": "AI / HPC Infrastructure",
+      "status": "WATCH",
+      "action": "WAIT",
+      "research_path": null,
+      "last_reviewed": "2026-08-30",
+      "scores": {
+        "business_potential": null,
+        "probability_of_success": null,
+        "investment_attractiveness": null,
+        "overall_100x": null
+      }
+    },
+    {
+      "id": "INE450U01017",
+      "name": "Pitti Engineering",
+      "ticker": "PITTIENG",
+      "country": "India",
+      "currency": "INR",
+      "sector": "Electrical / Precision Components",
+      "status": "WATCH",
+      "action": "REVIEW",
+      "research_path": null,
+      "last_reviewed": "2026-08-30",
+      "scores": {
+        "business_potential": null,
+        "probability_of_success": null,
+        "investment_attractiveness": null,
+        "overall_100x": null
+      }
+    },
+    {
+      "id": "INE0BS701011",
+      "name": "Premier Energies",
+      "ticker": "PREMIERENE",
+      "country": "India",
+      "currency": "INR",
+      "sector": "Solar / Manufacturing",
+      "status": "WATCH",
+      "action": "WAIT",
+      "research_path": null,
+      "last_reviewed": "2026-08-30",
+      "scores": {
+        "business_potential": null,
+        "probability_of_success": null,
+        "investment_attractiveness": null,
+        "overall_100x": null
+      }
+    },
+    {
+      "id": "INE0Q3R01026",
+      "name": "Quality Power Electrical Equipments",
+      "ticker": "QPOWER",
+      "country": "India",
+      "currency": "INR",
+      "sector": "Power / Grid Equipment",
+      "status": "WATCH",
+      "action": "WAIT",
+      "research_path": null,
+      "last_reviewed": "2026-08-30",
+      "scores": {
+        "business_potential": null,
+        "probability_of_success": null,
+        "investment_attractiveness": null,
+        "overall_100x": null
+      }
+    },
+    {
+      "id": "INE0SCB01024",
+      "name": "Sai Life Sciences",
+      "ticker": "SAILIFE",
+      "country": "India",
+      "currency": "INR",
+      "sector": "Pharma / CDMO",
+      "status": "WATCH",
+      "action": "WAIT",
+      "research_path": null,
+      "last_reviewed": "2026-08-30",
+      "scores": {
+        "business_potential": null,
+        "probability_of_success": null,
+        "investment_attractiveness": null,
+        "overall_100x": null
+      }
+    },
+    {
+      "id": "INE0T2G01017",
+      "name": "Senores Pharmaceuticals",
+      "ticker": "SENORES",
+      "country": "India",
+      "currency": "INR",
+      "sector": "Pharma / CDMO",
+      "status": "WATCH",
+      "action": "REVIEW",
+      "research_path": null,
+      "last_reviewed": "2026-08-30",
+      "scores": {
+        "business_potential": null,
+        "probability_of_success": null,
+        "investment_attractiveness": null,
+        "overall_100x": null
+      }
+    },
+    {
+      "id": "INE104J01023",
+      "name": "Shilpa Medicare",
+      "ticker": "SHILPAMED",
+      "country": "India",
+      "currency": "INR",
+      "sector": "Pharma / CDMO",
+      "status": "WATCH",
+      "action": "WAIT",
+      "research_path": null,
+      "last_reviewed": "2026-08-30",
+      "scores": {
+        "business_potential": null,
+        "probability_of_success": null,
+        "investment_attractiveness": null,
+        "overall_100x": null
+      }
+    },
+    {
+      "id": "INE0P7Q01017",
+      "name": "SJS Enterprises",
+      "ticker": "SJS",
+      "country": "India",
+      "currency": "INR",
+      "sector": "Auto / Industrial Components",
+      "status": "WATCH",
+      "action": "REVIEW",
+      "research_path": null,
+      "last_reviewed": "2026-08-30",
+      "scores": {
+        "business_potential": null,
+        "probability_of_success": null,
+        "investment_attractiveness": null,
+        "overall_100x": null
+      }
+    },
+    {
+      "id": "INE0D0K01014",
+      "name": "Yash Highvoltage",
+      "ticker": "YASHHV",
+      "country": "India",
+      "currency": "INR",
+      "sector": "Power Components",
+      "status": "WATCH",
+      "action": "WAIT",
+      "research_path": null,
+      "last_reviewed": "2026-08-30",
+      "scores": {
+        "business_potential": null,
+        "probability_of_success": null,
+        "investment_attractiveness": null,
+        "overall_100x": null
+      }
+    },
+    {
+      "id": "INE548A01028",
+      "name": "HFCL",
+      "ticker": "HFCL",
+      "country": "India",
+      "currency": "INR",
+      "sector": "Telecom / Optical Fibre / Defence Electronics",
+      "status": "WATCH",
+      "action": "WAIT",
+      "research_path": null,
+      "last_reviewed": "2026-08-30",
+      "scores": {
+        "business_potential": null,
+        "probability_of_success": null,
+        "investment_attractiveness": null,
+        "overall_100x": null
+      }
     }
   ]
 }
