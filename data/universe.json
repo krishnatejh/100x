@@ -490,6 +490,96 @@
         "investment_attractiveness": null,
         "overall_100x": null
       }
+    },
+    {
+      "id": "INE666D01022",
+      "name": "Borosil Renewables",
+      "ticker": "BORORENEW",
+      "country": "India",
+      "currency": "INR",
+      "sector": "Solar Glass",
+      "status": "WATCH",
+      "action": "WAIT",
+      "research_path": null,
+      "last_reviewed": "2026-08-30",
+      "scores": {
+        "business_potential": null,
+        "probability_of_success": null,
+        "investment_attractiveness": null,
+        "overall_100x": null
+      }
+    },
+    {
+      "id": "INE255Z01027",
+      "name": "E2E Networks",
+      "ticker": "E2E",
+      "country": "India",
+      "currency": "INR",
+      "sector": "AI / Cloud Infrastructure",
+      "status": "WATCH",
+      "action": "REVIEW",
+      "research_path": null,
+      "last_reviewed": "2026-08-30",
+      "scores": {
+        "business_potential": null,
+        "probability_of_success": null,
+        "investment_attractiveness": null,
+        "overall_100x": null
+      }
+    },
+    {
+      "id": "INE619B01017",
+      "name": "Newgen Software",
+      "ticker": "NEWGEN",
+      "country": "India",
+      "currency": "INR",
+      "sector": "Enterprise Software",
+      "status": "WATCH",
+      "action": "WAIT",
+      "research_path": null,
+      "last_reviewed": "2026-08-30",
+      "scores": {
+        "business_potential": null,
+        "probability_of_success": null,
+        "investment_attractiveness": null,
+        "overall_100x": null
+      }
+    },
+    {
+      "id": "INE0CLI01024",
+      "name": "RateGain Travel Technologies",
+      "ticker": "RATEGAIN",
+      "country": "India",
+      "currency": "INR",
+      "sector": "Enterprise Software",
+      "status": "WATCH",
+      "action": "WAIT",
+      "research_path": null,
+      "last_reviewed": "2026-08-30",
+      "scores": {
+        "business_potential": null,
+        "probability_of_success": null,
+        "investment_attractiveness": null,
+        "overall_100x": null
+      }
+    },
+    {
+      "id": "INE251B01027",
+      "name": "Zen Technologies",
+      "ticker": "ZENTEC",
+      "country": "India",
+      "currency": "INR",
+      "sector": "Defence Technology",
+      "status": "WATCH",
+      "action": "WAIT",
+      "research_path": null,
+      "last_reviewed": "2026-08-30",
+      "scores": {
+        "business_potential": null,
+        "probability_of_success": null,
+        "investment_attractiveness": null,
+        "overall_100x": null
+      }
     }
   ]
 }
