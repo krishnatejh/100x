@@ -2,7 +2,7 @@
   "schema_version": "1.0",
   "source": "legacy tracker Watchlist / Universe sheets",
   "status": "PARTIALLY_MIGRATED",
-  "note": "59 WATCH candidates extracted from the legacy tracker on 2026-09-05. Canonical ISIN ids are not guessed. As of 2026-09-06, 13 candidates with verified identifiers have been promoted into data/universe.json; the remainder stays in staging pending identity verification and ambiguity resolution. Legacy records may include duplicate/alias entries and composite entries.",
+  "note": "59 WATCH candidates extracted from the legacy tracker on 2026-09-05. As of 2026-09-06, verified single-entity candidates are progressively promoted into data/universe.json. ISINs are never guessed. Alias duplicates are retained only for audit history; composite legacy entries require explicit entity splitting.",
   "companies": [
     {
       "legacy_id": "C031",
@@ -149,7 +149,7 @@
       },
       "valuation_status": "Unvalidated",
       "technical_status": "Confirmation Needed",
-      "migration_state": "PENDING_ISIN_VERIFICATION"
+      "migration_state": "MIGRATED_CANONICAL"
     },
     {
       "legacy_id": "C084",
@@ -380,7 +380,7 @@
       },
       "valuation_status": "Unvalidated",
       "technical_status": "Confirmation Needed",
-      "migration_state": "PENDING_ISIN_VERIFICATION"
+      "migration_state": "MIGRATED_CANONICAL"
     },
     {
       "legacy_id": "C024",
@@ -821,7 +821,8 @@
       },
       "valuation_status": "Unvalidated",
       "technical_status": "Confirmation Needed",
-      "migration_state": "PENDING_ISIN_VERIFICATION"
+      "migration_state": "COMPOSITE_ENTRY_REQUIRES_SPLIT",
+      "note": "Legacy entry contains multiple entities and cannot map to one ISIN."
     },
     {
       "legacy_id": "C095",
@@ -905,7 +906,7 @@
       },
       "valuation_status": "Unvalidated",
       "technical_status": "Confirmation Needed",
-      "migration_state": "PENDING_ISIN_VERIFICATION"
+      "migration_state": "MIGRATED_CANONICAL"
     },
     {
       "legacy_id": "C041",
@@ -947,7 +948,8 @@
       },
       "valuation_status": "Unvalidated",
       "technical_status": "Confirmation Needed",
-      "migration_state": "PENDING_ISIN_VERIFICATION"
+      "migration_state": "ALIAS_OF_SHIVALIK_BIMETAL_CONTROLS",
+      "note": "Legacy alias/duplicate; not promoted as a separate canonical company."
     },
     {
       "legacy_id": "C096",
@@ -1052,7 +1054,7 @@
       },
       "valuation_status": "Unvalidated",
       "technical_status": "Confirmation Needed",
-      "migration_state": "PENDING_ISIN_VERIFICATION"
+      "migration_state": "MIGRATED_CANONICAL"
     },
     {
       "legacy_id": "C025",
@@ -1073,7 +1075,7 @@
       },
       "valuation_status": "Unvalidated",
       "technical_status": "Confirmation Needed",
-      "migration_state": "PENDING_ISIN_VERIFICATION"
+      "migration_state": "MIGRATED_CANONICAL"
     },
     {
       "legacy_id": "C045",
@@ -1115,7 +1117,8 @@
       },
       "valuation_status": "Unvalidated",
       "technical_status": "Confirmation Needed",
-      "migration_state": "PENDING_ISIN_VERIFICATION"
+      "migration_state": "COMPOSITE_ENTRY_REQUIRES_SPLIT",
+      "note": "Legacy entry contains multiple entities and cannot map to one ISIN."
     },
     {
       "legacy_id": "C019",
@@ -1136,7 +1139,7 @@
       },
       "valuation_status": "Unvalidated",
       "technical_status": "Confirmation Needed",
-      "migration_state": "PENDING_ISIN_VERIFICATION"
+      "migration_state": "MIGRATED_CANONICAL"
     },
     {
       "legacy_id": "C021",
@@ -1220,7 +1223,7 @@
       },
       "valuation_status": "Unvalidated",
       "technical_status": "Confirmation Needed",
-      "migration_state": "PENDING_ISIN_VERIFICATION"
+      "migration_state": "MIGRATED_CANONICAL"
     },
     {
       "legacy_id": "C108",
