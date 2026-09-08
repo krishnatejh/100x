@@ -8,8 +8,8 @@
 - **Currency:** INR
 - **Sector:** Aerospace / Defence Electronics
 - **Status:** CORE
-- **Action:** ACCUMULATE
-- **Last reviewed:** 2026-09-05
+- **Action:** WAIT
+- **Last reviewed:** 2026-09-08
 
 ## Investment thesis
 
@@ -47,7 +47,7 @@ Current market cap is around ₹6,600–6,800 crore and the stock trades around 
 
 ## Verdict
 
-**CORE — ACCUMULATE**, but with a strong requirement for earnings and return-on-capital confirmation. The business opportunity is attractive; valuation currently prevents a high Investment Attractiveness score.
+**CORE — WAIT.** The opportunity remains attractive, but modest current ROIC and a demanding valuation make immediate accumulation inconsistent with our valuation discipline.
 
 ## Sources
 
