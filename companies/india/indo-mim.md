@@ -9,7 +9,7 @@
 - **Sector:** Precision Manufacturing / MIM
 - **Status:** CORE
 - **Action:** WAIT
-- **Last reviewed:** 2026-09-05
+- **Last reviewed:** 2026-09-08
 
 ## Investment thesis
 
