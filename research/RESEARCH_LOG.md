@@ -53,3 +53,14 @@ This log records material research events and thesis changes. Git history remain
 - **Interpretation:** Business evidence strengthened, but valuation remains a major constraint; no status upgrade was warranted.
 - **Decision impact:** Retain CORE classification with WAIT action.
 - **Next review question:** Quantify customer concentration and order-book conversion, then build a reverse-DCF / FY27–FY30 valuation sensitivity.
+
+## 2026-09-08 — CORE action review
+
+- **Type:** Action review / valuation discipline
+- **Companies:** Azad Engineering; Cyient DLM; Indo-MIM; MTAR Technologies; PG Electroplast; Syrma SGS Technology
+- **Previous status/action:** CORE / ACCUMULATE SLOWLY (Azad); CORE / ACCUMULATE (Cyient DLM); CORE / WAIT (Indo-MIM); CORE / WAIT (MTAR); CORE / ACCUMULATE (PG Electroplast); CORE / ACCUMULATE SLOWLY (Syrma SGS)
+- **New status/action:** CORE / WAIT (Azad); CORE / WAIT (Cyient DLM); CORE / WAIT (Indo-MIM); CORE / WAIT (MTAR); CORE / ACCUMULATE SLOWLY (PG Electroplast); CORE / WAIT (Syrma SGS)
+- **What changed:** A fresh comparative review found no reason to upgrade CORE status, but several legacy actions were inconsistent with the current Investment Attractiveness scores and valuation conclusions. Cyient DLM, Azad and Syrma now move to WAIT because high valuations and/or insufficient current return-on-capital evidence make active accumulation premature. PG Electroplast is reduced from ACCUMULATE to ACCUMULATE SLOWLY because growth remains attractive but capital efficiency and margin conversion need confirmation. Indo-MIM and MTAR remain WAIT.
+- **Interpretation:** FACT for current reported operating evidence and the existing scorecards; INFERENCE for the action changes. No short-term price prediction is involved.
+- **Decision impact:** CORE is now deliberately conservative: only PG Electroplast is an active accumulation candidate, and only slowly. No CORE company is currently rated for aggressive accumulation.
+- **Next review question:** Challenge whether Cyient DLM and the most valuation-constrained CORE names should remain CORE after deeper comparison with E2E, Kaynes, Shivalik Bimetal, Pitti Engineering and other high-priority WATCH candidates.
