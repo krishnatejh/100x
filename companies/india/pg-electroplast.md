@@ -8,8 +8,8 @@
 - **Currency:** INR
 - **Sector:** EMS / Consumer Durables
 - **Status:** CORE
-- **Action:** ACCUMULATE
-- **Last reviewed:** 2026-09-05
+- **Action:** ACCUMULATE SLOWLY
+- **Last reviewed:** 2026-09-08
 
 ## Investment thesis
 
@@ -46,7 +46,7 @@ The current market cap is around ₹16,000 crore and trailing P/E around 78x. Th
 
 ## Verdict
 
-**CORE — ACCUMULATE**, but only while the thesis continues to show improving margins and incremental returns. Revenue growth alone is not enough for the 100X case.
+**CORE — ACCUMULATE SLOWLY.** The growth opportunity remains strong, but current capital efficiency and margin conversion do not justify aggressive accumulation. Add only gradually while monitoring incremental ROCE/ROIC.
 
 ## Sources
 
