@@ -8,7 +8,7 @@
 - **Sector:** Precision Engineering / Nuclear / Aerospace
 - **Status:** CORE 100X
 - **Action:** WAIT
-- **Last reviewed:** 2026-09-05
+- **Last reviewed:** 2026-09-08
 
 ## 1. Investment thesis
 
