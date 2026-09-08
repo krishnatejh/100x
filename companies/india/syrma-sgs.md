@@ -8,8 +8,8 @@
 - **Currency:** INR
 - **Sector:** Electronics Manufacturing
 - **Status:** CORE
-- **Action:** ACCUMULATE SLOWLY
-- **Last reviewed:** 2026-09-05
+- **Action:** WAIT
+- **Last reviewed:** 2026-09-08
 
 ## Investment thesis
 
@@ -47,7 +47,7 @@ The key issue is valuation: market cap is roughly ₹28,000 crore and trailing P
 
 ## Verdict
 
-**CORE — ACCUMULATE SLOWLY.** The business quality and growth runway are attractive, but current valuation requires sustained high growth and improving returns for a satisfactory long-term outcome.
+**CORE — WAIT.** Business momentum is strong, but the starting valuation is demanding enough that further accumulation should wait for either a better entry valuation or additional proof of durable returns and cash conversion.
 
 ## Sources
 
