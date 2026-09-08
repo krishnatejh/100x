@@ -26,7 +26,7 @@ The machine-readable structure is defined by `data/universe.schema.json`, with h
 ## Repository structure
 
 - `DASHBOARD.md` — architecture and navigation overview.
-- `data/universe.json` — canonical structured universe used by Artha and other views.
+- `data/universe.json` — canonical structured universe used by the project and its views.
 - `data/universe.schema.json` — machine-readable validation schema.
 - `data/schema.md` — human-readable data definitions and controlled taxonomies.
 - `companies/COMPANY_TEMPLATE.md` — standard research template.
@@ -38,9 +38,6 @@ The machine-readable structure is defined by `data/universe.schema.json`, with h
 
 Detailed company research lives in the corresponding Markdown file. Structured current-state data lives in `universe.json`; the same data should not be duplicated in separate CORE/WATCH/FRONTIER/REJECTED files.
 
-## Artha integration
-
-Artha's 100X section should consume `data/universe.json` and dynamically filter records by `status` into four tabs: CORE, WATCH, FRONTIER and REJECTED. Each company record contains a `research_path` pointing to its detailed research Markdown file. Artha should not maintain a second copy of the investment universe.
 
 ## Validation
 
