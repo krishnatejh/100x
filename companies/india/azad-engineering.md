@@ -8,8 +8,8 @@
 - **Currency:** INR
 - **Sector:** Precision Engineering / Aerospace
 - **Status:** CORE
-- **Action:** ACCUMULATE SLOWLY
-- **Last reviewed:** 2026-09-05
+- **Action:** WAIT
+- **Last reviewed:** 2026-09-08
 
 ## Investment thesis
 
@@ -50,7 +50,7 @@ At approximately ₹17,900 crore current market cap, 100X implies about ₹17.9 
 
 ## Verdict
 
-**CORE — ACCUMULATE SLOWLY**, but the current valuation is the dominant constraint. The score should be revisited after evidence that the new capacity converts into revenue and higher incremental returns.
+**CORE — WAIT**, with valuation as the dominant constraint. Reconsider accumulation only after a meaningful valuation reset or stronger evidence that new capacity is producing high incremental returns.
 
 ## Sources
 
