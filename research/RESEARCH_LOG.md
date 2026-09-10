@@ -73,3 +73,13 @@ This log records material research events and thesis changes. Git history remain
 - **Enums:** Thesis health = STRENGTHENING / INTACT / UNDER_REVIEW / WEAKENING / BROKEN. Position action = HOLD / REDUCE / EXIT. Fresh capital action = DEPLOY / WAIT.
 - **CORE correction:** A fresh-capital WAIT is explicitly not an exit signal. Existing CORE positions are HOLD unless explicit evidence supports REDUCE or EXIT.
 - **Principle:** Valuation can change the attractiveness of new purchases without invalidating a 10–25+ year business thesis or requiring sale of an existing position.
+
+## 2026-09-10 — Classification taxonomy foundation
+
+- **Type:** Methodology and schema preparation
+- **Decision:** Lock a three-dimensional classification model: `sector`, `industry`, and `themes`.
+- **Sector:** Exactly one of the 11 GICS-aligned sectors.
+- **Industry:** Exactly one controlled primary-business enum.
+- **Themes:** Zero to five controlled cross-cutting opportunity areas.
+- **Design principle:** Sector and industry describe what a company fundamentally is and does; themes describe structural opportunities, technologies, strategic value chains, or major end markets.
+- **Migration status:** Taxonomy/schema/documentation updated only. Existing company values in `universe.json` have not yet been migrated; full company mapping will be reviewed separately.
