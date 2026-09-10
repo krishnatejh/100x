@@ -8,7 +8,9 @@
 - **Currency:** INR
 - **Sector:** Precision Manufacturing / MIM
 - **Status:** CORE
-- **Action:** WAIT
+- **Thesis health:** INTACT
+- **Position action:** HOLD
+- **Fresh capital action:** WAIT
 - **Last reviewed:** 2026-09-08
 
 ## Investment thesis
@@ -46,7 +48,7 @@ The problem is valuation. Market cap is roughly ₹45,000–48,000 crore and tra
 
 ## Verdict
 
-**CORE — WAIT.** The business is arguably the strongest of the migrated CORE group on quality and moat, but the current starting valuation makes the 100X investment case exceptionally demanding.
+**CORE — Thesis INTACT | Existing position: HOLD | Fresh capital: WAIT.** The business is arguably the strongest of the migrated CORE group on quality and moat, but the current starting valuation makes the 100X investment case exceptionally demanding.
 
 ## Sources
 
