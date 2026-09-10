@@ -6,7 +6,9 @@
 - **Ticker:** INDOMIM
 - **Country:** India
 - **Currency:** INR
-- **Sector:** Precision Manufacturing / MIM
+- **Sector:** INDUSTRIALS
+- **Industry:** INDUSTRIAL_COMPONENTS
+- **Themes:** ADVANCED_MANUFACTURING, PRECISION_MANUFACTURING
 - **Status:** CORE
 - **Thesis health:** INTACT
 - **Position action:** HOLD
