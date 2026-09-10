@@ -91,3 +91,11 @@ This log records material research events and thesis changes. Git history remain
 - **Rules applied:** Exactly one GICS-aligned sector, exactly one controlled primary industry, and zero to five controlled themes per company.
 - **Purpose:** Separate economic classification from cross-cutting opportunity exposure and enable sector/industry concentration and theme/discovery-bias analysis.
 - **Note:** Classification is a taxonomy normalization exercise, not a change to company status, thesis, scores, valuation, or investment action.
+
+## 2026-09-10 — Schema v3.0 consistency cleanup
+
+- Bumped canonical universe `schema_version` from `2.0` to `3.0` to reflect the breaking classification-model change.
+- Clarified the theme-overlap rule: themes cannot merely restate primary industry, but controlled overlap is allowed for distinct end-market/discovery exposure (for example aerospace/defence).
+- Regenerated `sectors/SECTOR_COVERAGE.md` from live canonical data with sector, industry and theme concentration views.
+- Noted discovery concentration and global-search gaps.
+- `artha-contract.json` intentionally excluded because it was removed and is no longer part of the repository contract.
