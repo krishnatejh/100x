@@ -7,7 +7,9 @@
 - **Currency:** INR
 - **Sector:** Precision Engineering / Nuclear / Aerospace
 - **Status:** CORE 100X
-- **Action:** WAIT
+- **Thesis health:** STRENGTHENING
+- **Position action:** HOLD
+- **Fresh capital action:** WAIT
 - **Last reviewed:** 2026-09-08
 
 ## 1. Investment thesis
