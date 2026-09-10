@@ -99,3 +99,16 @@ This log records material research events and thesis changes. Git history remain
 - Regenerated `sectors/SECTOR_COVERAGE.md` from live canonical data with sector, industry and theme concentration views.
 - Noted discovery concentration and global-search gaps.
 - `artha-contract.json` intentionally excluded because it was removed and is no longer part of the repository contract.
+
+
+## 2026-09-10 — E2E Networks full 100X review
+
+- **Type:** Full research / status retained
+- **Previous status/action:** WATCH / thesis UNDER_REVIEW / HOLD / fresh capital WAIT
+- **New status/action:** WATCH (HIGH PRIORITY) / thesis UNDER_REVIEW / HOLD / fresh capital WAIT
+- **What changed:** Completed the full 100X framework analysis covering business model, AI/GPU cloud opportunity, TAM/runway, financial inflection, moat, management, capital allocation, market-cap mathematics, reverse economics, valuation, scenarios, risks and sector-bias checks. Added the canonical research page at `companies/india/e2e-networks.md`.
+- **Scores:** Business Potential 9.0/10; Probability of Success 5.5/10; Investment Attractiveness 5.0/10; Overall 100X Score 6.5/10.
+- **Evidence:** Sharp AI-driven growth and encouraging GPU utilisation provide genuine positive evidence. The large AI infrastructure opportunity and L&T relationship strengthen the strategic case. Major unresolved issues remain around repeatable cluster economics, incremental ROIC, free-cash-flow conversion after replacement capex, competition, NVIDIA dependence, customer concentration, financing/dilution and valuation.
+- **Interpretation:** FACT for reported operating developments and disclosed/announced infrastructure developments; INFERENCE for moat durability and long-term economics; SPECULATION explicitly separated for the 50X–100X outcome.
+- **Decision impact:** No CORE promotion. E2E remains a HIGH-PRIORITY WATCH because business potential is exceptional but probability and investment attractiveness are not yet strong enough. The decisive question is whether E2E becomes a high-return AI platform or remains a capital-intensive GPU infrastructure operator.
+- **Next review question:** Can multiple GPU clusters demonstrate sustained utilisation, attractive incremental ROIC and improving free-cash-flow conversion without excessive leverage or dilution?
