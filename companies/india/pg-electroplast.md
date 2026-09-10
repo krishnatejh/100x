@@ -6,7 +6,9 @@
 - **Ticker:** PGEL
 - **Country:** India
 - **Currency:** INR
-- **Sector:** EMS / Consumer Durables
+- **Sector:** CONSUMER_DISCRETIONARY
+- **Industry:** HOUSEHOLD_DURABLES
+- **Themes:** ADVANCED_MANUFACTURING
 - **Status:** CORE
 - **Thesis health:** INTACT
 - **Position action:** HOLD
