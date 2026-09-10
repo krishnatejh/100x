@@ -8,7 +8,9 @@
 - **Currency:** INR
 - **Sector:** EMS / Consumer Durables
 - **Status:** CORE
-- **Action:** ACCUMULATE SLOWLY
+- **Thesis health:** INTACT
+- **Position action:** HOLD
+- **Fresh capital action:** DEPLOY
 - **Last reviewed:** 2026-09-08
 
 ## Investment thesis
@@ -46,7 +48,7 @@ The current market cap is around ₹16,000 crore and trailing P/E around 78x. Th
 
 ## Verdict
 
-**CORE — ACCUMULATE SLOWLY.** The growth opportunity remains strong, but current capital efficiency and margin conversion do not justify aggressive accumulation. Add only gradually while monitoring incremental ROCE/ROIC.
+**CORE — Thesis INTACT | Existing position: HOLD | Fresh capital: DEPLOY.** The growth opportunity remains strong, but current capital efficiency and margin conversion do not justify aggressive accumulation. Add only gradually while monitoring incremental ROCE/ROIC.
 
 ## Sources
 
