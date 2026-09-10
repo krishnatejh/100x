@@ -6,7 +6,9 @@
 - **Ticker:** CYIENTDLM
 - **Country:** India
 - **Currency:** INR
-- **Sector:** Aerospace / Defence Electronics
+- **Sector:** INFORMATION_TECHNOLOGY
+- **Industry:** ELECTRONIC_MANUFACTURING_SERVICES
+- **Themes:** DEFENCE, AEROSPACE, ADVANCED_MANUFACTURING
 - **Status:** CORE
 - **Thesis health:** UNDER_REVIEW
 - **Position action:** HOLD
