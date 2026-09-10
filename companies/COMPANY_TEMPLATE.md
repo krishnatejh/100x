@@ -7,7 +7,9 @@
 - **Currency:**
 - **Sector:**
 - **Status:**
-- **Action:**
+- **Thesis health:**
+- **Position action:**
+- **Fresh capital action:**
 - **Last reviewed:**
 
 ## 1. Investment thesis
@@ -92,7 +94,7 @@ List the critical conditions required for the extreme outcome and assess how rea
 
 ## 13. Verdict
 
-**CORE / WATCH / FRONTIER / REJECTED — [ACTION]**
+**[STATUS] — Thesis: [THESIS_HEALTH] | Existing position: [POSITION_ACTION] | Fresh capital: [FRESH_CAPITAL_ACTION]**
 
 Explain why.
 
