@@ -46,3 +46,8 @@ Before consuming or committing universe data, validate `data/universe.json` agai
 ## Access
 
 This repository is intentionally **private**. Research, valuation work, investment theses, and decision history are treated as private investment-research material. Authorized GitHub access is used for collaboration and automation; public visibility is not required for the 100X workflow.
+
+
+## Classification taxonomy
+
+The canonical universe uses three separate dimensions: `sector` (one GICS-aligned broad sector), `industry` (one controlled primary business classification), and `themes` (zero to five controlled cross-cutting opportunity areas). The authoritative enums and rules are documented in `data/schema.md` and enforced by `data/universe.schema.json`.
