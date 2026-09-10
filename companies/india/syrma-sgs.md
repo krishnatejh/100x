@@ -8,7 +8,9 @@
 - **Currency:** INR
 - **Sector:** Electronics Manufacturing
 - **Status:** CORE
-- **Action:** WAIT
+- **Thesis health:** INTACT
+- **Position action:** HOLD
+- **Fresh capital action:** WAIT
 - **Last reviewed:** 2026-09-08
 
 ## Investment thesis
@@ -47,7 +49,7 @@ The key issue is valuation: market cap is roughly ₹28,000 crore and trailing P
 
 ## Verdict
 
-**CORE — WAIT.** Business momentum is strong, but the starting valuation is demanding enough that further accumulation should wait for either a better entry valuation or additional proof of durable returns and cash conversion.
+**CORE — Thesis INTACT | Existing position: HOLD | Fresh capital: WAIT.** Business momentum is strong, but the starting valuation is demanding enough that further accumulation should wait for either a better entry valuation or additional proof of durable returns and cash conversion.
 
 ## Sources
 
