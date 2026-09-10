@@ -8,7 +8,9 @@
 - **Currency:** INR
 - **Sector:** Precision Engineering / Aerospace
 - **Status:** CORE
-- **Action:** WAIT
+- **Thesis health:** INTACT
+- **Position action:** HOLD
+- **Fresh capital action:** WAIT
 - **Last reviewed:** 2026-09-08
 
 ## Investment thesis
