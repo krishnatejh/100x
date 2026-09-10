@@ -21,7 +21,7 @@ Each listed security uses its **ISIN as the canonical `id`**. Ticker is retained
 
 ## Data contract
 
-The machine-readable structure is defined by `data/universe.schema.json`, with human-readable field definitions and taxonomies in `data/schema.md`. `data/universe.json` is the canonical current dataset. New company records must conform to the schema, use a unique ISIN, use an allowed `status` and `action`, and use `research_path` consistently.
+The machine-readable structure is defined by `data/universe.schema.json`, with human-readable field definitions and taxonomies in `data/schema.md`. `data/universe.json` is the canonical current dataset. New company records must conform to the schema, use a unique ISIN, use allowed `status`, `thesis_health`, `position_action` and `fresh_capital_action`, and use `research_path` consistently.
 
 ## Repository structure
 
@@ -41,7 +41,7 @@ Detailed company research lives in the corresponding Markdown file. Structured c
 
 ## Validation
 
-Before consuming or committing universe data, validate `data/universe.json` against `data/universe.schema.json`. At minimum, validation must catch malformed JSON, duplicate ISINs, invalid status/action values, invalid scores, invalid dates and missing required fields. Broken `research_path` references should also be flagged.
+Before consuming or committing universe data, validate `data/universe.json` against `data/universe.schema.json`. At minimum, validation must catch malformed JSON, duplicate ISINs, invalid status/thesis/action values, invalid scores, invalid dates and missing required fields. Broken `research_path` references should also be flagged.
 
 ## Access
 
