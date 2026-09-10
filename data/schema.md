@@ -120,7 +120,7 @@ Each company uses three distinct classification dimensions:
 2. Every company has exactly **one industry**.
 3. Every company has **zero to five themes**.
 4. Sector is GICS-aligned and broad; industry represents the company's primary economic activity.
-5. Themes must not be used merely to duplicate the industry. They represent cross-cutting structural opportunities, technologies, strategic value chains, or end markets.
+5. Themes must not be used merely to restate the industry's primary business. Terminology may overlap when a theme represents a distinct structural opportunity, technology, strategic value chain, or material end-market exposure used for discovery and concentration analysis (for example, `AEROSPACE_DEFENSE` industry with `AEROSPACE` and/or `DEFENCE` themes).
 6. Do not create ad-hoc labels. New enum values require an explicit taxonomy review.
 7. Country/geography is not a theme; use the existing `country` field. Macro narratives belong in research unless a future controlled taxonomy explicitly adds them.
 
