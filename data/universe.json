@@ -710,13 +710,13 @@
       "currency": "INR",
       "sector": "INFORMATION_TECHNOLOGY",
       "status": "WATCH",
-      "research_path": null,
-      "last_reviewed": "2026-08-30",
+      "research_path": "companies/india/e2e-networks.md",
+      "last_reviewed": "2026-09-10",
       "scores": {
-        "business_potential": null,
-        "probability_of_success": null,
-        "investment_attractiveness": null,
-        "overall_100x": null
+        "business_potential": 9,
+        "probability_of_success": 5.5,
+        "investment_attractiveness": 5,
+        "overall_100x": 6.5
       },
       "thesis_health": "UNDER_REVIEW",
       "position_action": "HOLD",
