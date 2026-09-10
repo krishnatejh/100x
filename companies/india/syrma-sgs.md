@@ -6,7 +6,9 @@
 - **Ticker:** SYRMA
 - **Country:** India
 - **Currency:** INR
-- **Sector:** Electronics Manufacturing
+- **Sector:** INFORMATION_TECHNOLOGY
+- **Industry:** ELECTRONIC_MANUFACTURING_SERVICES
+- **Themes:** ADVANCED_MANUFACTURING, SEMICONDUCTOR_ECOSYSTEM
 - **Status:** CORE
 - **Thesis health:** INTACT
 - **Position action:** HOLD
