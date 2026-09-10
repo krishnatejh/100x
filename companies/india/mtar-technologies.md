@@ -5,8 +5,10 @@
 - **Ticker:** MTARTECH
 - **Country:** India
 - **Currency:** INR
-- **Sector:** Precision Engineering / Nuclear / Aerospace
-- **Status:** CORE 100X
+- **Sector:** INDUSTRIALS
+- **Industry:** MACHINERY
+- **Themes:** NUCLEAR, AEROSPACE, DEFENCE, PRECISION_MANUFACTURING
+- **Status:** CORE
 - **Thesis health:** STRENGTHENING
 - **Position action:** HOLD
 - **Fresh capital action:** WAIT
