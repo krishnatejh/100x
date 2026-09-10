@@ -64,3 +64,12 @@ This log records material research events and thesis changes. Git history remain
 - **Interpretation:** FACT for current reported operating evidence and the existing scorecards; INFERENCE for the action changes. No short-term price prediction is involved.
 - **Decision impact:** CORE is now deliberately conservative: only PG Electroplast is an active accumulation candidate, and only slowly. No CORE company is currently rated for aggressive accumulation.
 - **Next review question:** Challenge whether Cyient DLM and the most valuation-constrained CORE names should remain CORE after deeper comparison with E2E, Kaynes, Shivalik Bimetal, Pitti Engineering and other high-priority WATCH candidates.
+
+## 2026-09-10 — Decision-model correction
+
+- **Type:** Data-model and methodology correction
+- **Problem:** The legacy single `action` field mixed two different decisions: what to do with an existing position and whether to deploy fresh capital. This caused the 2026-09-08 CORE review to make `WAIT` appear like a change in long-term ownership conviction.
+- **Schema change:** Removed `action`; added `thesis_health`, `position_action`, and `fresh_capital_action`.
+- **Enums:** Thesis health = STRENGTHENING / INTACT / UNDER_REVIEW / WEAKENING / BROKEN. Position action = HOLD / REDUCE / EXIT. Fresh capital action = DEPLOY / WAIT.
+- **CORE correction:** A fresh-capital WAIT is explicitly not an exit signal. Existing CORE positions are HOLD unless explicit evidence supports REDUCE or EXIT.
+- **Principle:** Valuation can change the attractiveness of new purchases without invalidating a 10–25+ year business thesis or requiring sale of an existing position.
