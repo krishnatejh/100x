@@ -6,7 +6,9 @@
 - **Ticker:** AZAD
 - **Country:** India
 - **Currency:** INR
-- **Sector:** Precision Engineering / Aerospace
+- **Sector:** INDUSTRIALS
+- **Industry:** AEROSPACE_DEFENSE
+- **Themes:** AEROSPACE, DEFENCE, PRECISION_MANUFACTURING
 - **Status:** CORE
 - **Thesis health:** INTACT
 - **Position action:** HOLD
