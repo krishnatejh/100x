@@ -11,7 +11,7 @@
       "ticker": "AZAD",
       "country": "India",
       "currency": "INR",
-      "sector": "Precision Engineering / Aerospace",
+      "sector": "INDUSTRIALS",
       "status": "CORE",
       "research_path": "companies/india/azad-engineering.md",
       "last_reviewed": "2026-09-08",
@@ -23,7 +23,13 @@
       },
       "thesis_health": "INTACT",
       "position_action": "HOLD",
-      "fresh_capital_action": "WAIT"
+      "fresh_capital_action": "WAIT",
+      "industry": "AEROSPACE_DEFENSE",
+      "themes": [
+        "AEROSPACE",
+        "DEFENCE",
+        "PRECISION_MANUFACTURING"
+      ]
     },
     {
       "id": "INE055S01018",
@@ -31,7 +37,7 @@
       "ticker": "CYIENTDLM",
       "country": "India",
       "currency": "INR",
-      "sector": "Aerospace / Defence Electronics",
+      "sector": "INFORMATION_TECHNOLOGY",
       "status": "CORE",
       "research_path": "companies/india/cyient-dlm.md",
       "last_reviewed": "2026-09-08",
@@ -43,7 +49,13 @@
       },
       "thesis_health": "UNDER_REVIEW",
       "position_action": "HOLD",
-      "fresh_capital_action": "WAIT"
+      "fresh_capital_action": "WAIT",
+      "industry": "ELECTRONIC_MANUFACTURING_SERVICES",
+      "themes": [
+        "DEFENCE",
+        "AEROSPACE",
+        "ADVANCED_MANUFACTURING"
+      ]
     },
     {
       "id": "INE084101034",
@@ -51,7 +63,7 @@
       "ticker": "INDOMIM",
       "country": "India",
       "currency": "INR",
-      "sector": "Precision Manufacturing / MIM",
+      "sector": "INDUSTRIALS",
       "status": "CORE",
       "research_path": "companies/india/indo-mim.md",
       "last_reviewed": "2026-09-08",
@@ -63,7 +75,12 @@
       },
       "thesis_health": "INTACT",
       "position_action": "HOLD",
-      "fresh_capital_action": "WAIT"
+      "fresh_capital_action": "WAIT",
+      "industry": "INDUSTRIAL_COMPONENTS",
+      "themes": [
+        "ADVANCED_MANUFACTURING",
+        "PRECISION_MANUFACTURING"
+      ]
     },
     {
       "id": "INE864I01014",
@@ -71,7 +88,7 @@
       "ticker": "MTARTECH",
       "country": "India",
       "currency": "INR",
-      "sector": "Precision Engineering / Nuclear / Aerospace",
+      "sector": "INDUSTRIALS",
       "status": "CORE",
       "research_path": "companies/india/mtar-technologies.md",
       "last_reviewed": "2026-09-08",
@@ -83,7 +100,14 @@
       },
       "thesis_health": "STRENGTHENING",
       "position_action": "HOLD",
-      "fresh_capital_action": "WAIT"
+      "fresh_capital_action": "WAIT",
+      "industry": "MACHINERY",
+      "themes": [
+        "NUCLEAR",
+        "AEROSPACE",
+        "DEFENCE",
+        "PRECISION_MANUFACTURING"
+      ]
     },
     {
       "id": "INE457L01029",
@@ -91,7 +115,7 @@
       "ticker": "PGEL",
       "country": "India",
       "currency": "INR",
-      "sector": "EMS / Consumer Durables",
+      "sector": "CONSUMER_DISCRETIONARY",
       "status": "CORE",
       "research_path": "companies/india/pg-electroplast.md",
       "last_reviewed": "2026-09-08",
@@ -103,7 +127,11 @@
       },
       "thesis_health": "INTACT",
       "position_action": "HOLD",
-      "fresh_capital_action": "DEPLOY"
+      "fresh_capital_action": "DEPLOY",
+      "industry": "HOUSEHOLD_DURABLES",
+      "themes": [
+        "ADVANCED_MANUFACTURING"
+      ]
     },
     {
       "id": "INE0DYJ01015",
@@ -111,7 +139,7 @@
       "ticker": "SYRMA",
       "country": "India",
       "currency": "INR",
-      "sector": "Electronics Manufacturing",
+      "sector": "INFORMATION_TECHNOLOGY",
       "status": "CORE",
       "research_path": "companies/india/syrma-sgs.md",
       "last_reviewed": "2026-09-08",
@@ -123,7 +151,12 @@
       },
       "thesis_health": "INTACT",
       "position_action": "HOLD",
-      "fresh_capital_action": "WAIT"
+      "fresh_capital_action": "WAIT",
+      "industry": "ELECTRONIC_MANUFACTURING_SERVICES",
+      "themes": [
+        "ADVANCED_MANUFACTURING",
+        "SEMICONDUCTOR_ECOSYSTEM"
+      ]
     },
     {
       "id": "INE0LRU01027",
@@ -131,7 +164,7 @@
       "ticker": "AARTIPHARM",
       "country": "India",
       "currency": "INR",
-      "sector": "Pharma",
+      "sector": "HEALTH_CARE",
       "status": "WATCH",
       "research_path": null,
       "last_reviewed": "2026-08-30",
@@ -143,7 +176,11 @@
       },
       "thesis_health": "UNDER_REVIEW",
       "position_action": "HOLD",
-      "fresh_capital_action": "WAIT"
+      "fresh_capital_action": "WAIT",
+      "industry": "PHARMACEUTICALS",
+      "themes": [
+        "CDMO"
+      ]
     },
     {
       "id": "INE00FF01025",
@@ -151,7 +188,7 @@
       "ticker": "ACUTAAS",
       "country": "India",
       "currency": "INR",
-      "sector": "Pharma / CDMO",
+      "sector": "HEALTH_CARE",
       "status": "WATCH",
       "research_path": null,
       "last_reviewed": "2026-08-30",
@@ -163,7 +200,11 @@
       },
       "thesis_health": "UNDER_REVIEW",
       "position_action": "HOLD",
-      "fresh_capital_action": "WAIT"
+      "fresh_capital_action": "WAIT",
+      "industry": "PHARMACEUTICALS",
+      "themes": [
+        "CDMO"
+      ]
     },
     {
       "id": "INE024001021",
@@ -171,7 +212,7 @@
       "ticker": "AEROFLEX",
       "country": "India",
       "currency": "INR",
-      "sector": "Industrial / Specialty Products",
+      "sector": "INDUSTRIALS",
       "status": "WATCH",
       "research_path": null,
       "last_reviewed": "2026-08-30",
@@ -183,7 +224,11 @@
       },
       "thesis_health": "UNDER_REVIEW",
       "position_action": "HOLD",
-      "fresh_capital_action": "WAIT"
+      "fresh_capital_action": "WAIT",
+      "industry": "INDUSTRIAL_COMPONENTS",
+      "themes": [
+        "ADVANCED_MANUFACTURING"
+      ]
     },
     {
       "id": "INE371P01015",
@@ -191,7 +236,7 @@
       "ticker": "AMBER",
       "country": "India",
       "currency": "INR",
-      "sector": "Electronics Manufacturing",
+      "sector": "CONSUMER_DISCRETIONARY",
       "status": "WATCH",
       "research_path": null,
       "last_reviewed": "2026-08-30",
@@ -203,7 +248,11 @@
       },
       "thesis_health": "UNDER_REVIEW",
       "position_action": "HOLD",
-      "fresh_capital_action": "WAIT"
+      "fresh_capital_action": "WAIT",
+      "industry": "HOUSEHOLD_DURABLES",
+      "themes": [
+        "ADVANCED_MANUFACTURING"
+      ]
     },
     {
       "id": "INE386C01029",
@@ -211,7 +260,7 @@
       "ticker": "ASTRAMICRO",
       "country": "India",
       "currency": "INR",
-      "sector": "Defence Electronics",
+      "sector": "INFORMATION_TECHNOLOGY",
       "status": "WATCH",
       "research_path": null,
       "last_reviewed": "2026-08-30",
@@ -223,7 +272,12 @@
       },
       "thesis_health": "UNDER_REVIEW",
       "position_action": "HOLD",
-      "fresh_capital_action": "WAIT"
+      "fresh_capital_action": "WAIT",
+      "industry": "COMMUNICATIONS_EQUIPMENT",
+      "themes": [
+        "DEFENCE",
+        "AEROSPACE"
+      ]
     },
     {
       "id": "INE290S01011",
@@ -231,7 +285,7 @@
       "ticker": "CARTRADE",
       "country": "India",
       "currency": "INR",
-      "sector": "Digital Marketplace",
+      "sector": "COMMUNICATION_SERVICES",
       "status": "WATCH",
       "research_path": null,
       "last_reviewed": "2026-08-30",
@@ -243,7 +297,11 @@
       },
       "thesis_health": "UNDER_REVIEW",
       "position_action": "HOLD",
-      "fresh_capital_action": "WAIT"
+      "fresh_capital_action": "WAIT",
+      "industry": "DIGITAL_PLATFORMS",
+      "themes": [
+        "DIGITAL_TRANSFORMATION"
+      ]
     },
     {
       "id": "INE753U01022",
@@ -251,7 +309,7 @@
       "ticker": "DIVGIITTS",
       "country": "India",
       "currency": "INR",
-      "sector": "Auto Components",
+      "sector": "CONSUMER_DISCRETIONARY",
       "status": "WATCH",
       "research_path": null,
       "last_reviewed": "2026-08-30",
@@ -263,7 +321,11 @@
       },
       "thesis_health": "UNDER_REVIEW",
       "position_action": "HOLD",
-      "fresh_capital_action": "WAIT"
+      "fresh_capital_action": "WAIT",
+      "industry": "AUTOMOBILE_COMPONENTS",
+      "themes": [
+        "PRECISION_MANUFACTURING"
+      ]
     },
     {
       "id": "INE600Y01019",
@@ -271,7 +333,7 @@
       "ticker": "DYCL",
       "country": "India",
       "currency": "INR",
-      "sector": "Cables / Power Components",
+      "sector": "INDUSTRIALS",
       "status": "WATCH",
       "research_path": null,
       "last_reviewed": "2026-08-30",
@@ -283,7 +345,12 @@
       },
       "thesis_health": "UNDER_REVIEW",
       "position_action": "HOLD",
-      "fresh_capital_action": "WAIT"
+      "fresh_capital_action": "WAIT",
+      "industry": "ELECTRICAL_EQUIPMENT",
+      "themes": [
+        "ELECTRIFICATION",
+        "GRID_MODERNIZATION"
+      ]
     },
     {
       "id": "INE221B01012",
@@ -291,7 +358,7 @@
       "ticker": "DYNAMATECH",
       "country": "India",
       "currency": "INR",
-      "sector": "Aerospace / Precision Engineering",
+      "sector": "INDUSTRIALS",
       "status": "WATCH",
       "research_path": null,
       "last_reviewed": "2026-08-30",
@@ -303,7 +370,13 @@
       },
       "thesis_health": "UNDER_REVIEW",
       "position_action": "HOLD",
-      "fresh_capital_action": "WAIT"
+      "fresh_capital_action": "WAIT",
+      "industry": "AEROSPACE_DEFENSE",
+      "themes": [
+        "AEROSPACE",
+        "DEFENCE",
+        "PRECISION_MANUFACTURING"
+      ]
     },
     {
       "id": "INE918Z01012",
@@ -311,7 +384,7 @@
       "ticker": "KAYNES",
       "country": "India",
       "currency": "INR",
-      "sector": "Electronics Manufacturing",
+      "sector": "INFORMATION_TECHNOLOGY",
       "status": "WATCH",
       "research_path": null,
       "last_reviewed": "2026-08-30",
@@ -323,7 +396,12 @@
       },
       "thesis_health": "UNDER_REVIEW",
       "position_action": "HOLD",
-      "fresh_capital_action": "WAIT"
+      "fresh_capital_action": "WAIT",
+      "industry": "ELECTRONIC_MANUFACTURING_SERVICES",
+      "themes": [
+        "SEMICONDUCTOR_ECOSYSTEM",
+        "ADVANCED_MANUFACTURING"
+      ]
     },
     {
       "id": "INE947Q01028",
@@ -331,7 +409,7 @@
       "ticker": "LAURUSLABS",
       "country": "India",
       "currency": "INR",
-      "sector": "Pharma / CDMO",
+      "sector": "HEALTH_CARE",
       "status": "WATCH",
       "research_path": null,
       "last_reviewed": "2026-08-30",
@@ -343,7 +421,11 @@
       },
       "thesis_health": "UNDER_REVIEW",
       "position_action": "HOLD",
-      "fresh_capital_action": "WAIT"
+      "fresh_capital_action": "WAIT",
+      "industry": "PHARMACEUTICALS",
+      "themes": [
+        "CDMO"
+      ]
     },
     {
       "id": "INE794A01010",
@@ -351,7 +433,7 @@
       "ticker": "NEULANDLAB",
       "country": "India",
       "currency": "INR",
-      "sector": "Pharma / CDMO",
+      "sector": "HEALTH_CARE",
       "status": "WATCH",
       "research_path": null,
       "last_reviewed": "2026-08-30",
@@ -363,7 +445,11 @@
       },
       "thesis_health": "UNDER_REVIEW",
       "position_action": "HOLD",
-      "fresh_capital_action": "WAIT"
+      "fresh_capital_action": "WAIT",
+      "industry": "PHARMACEUTICALS",
+      "themes": [
+        "CDMO"
+      ]
     },
     {
       "id": "INE386D01027",
@@ -371,7 +457,7 @@
       "ticker": "SBCL",
       "country": "India",
       "currency": "INR",
-      "sector": "Advanced Materials / Precision Components",
+      "sector": "MATERIALS",
       "status": "WATCH",
       "research_path": null,
       "last_reviewed": "2026-08-30",
@@ -383,7 +469,12 @@
       },
       "thesis_health": "UNDER_REVIEW",
       "position_action": "HOLD",
-      "fresh_capital_action": "WAIT"
+      "fresh_capital_action": "WAIT",
+      "industry": "ADVANCED_MATERIALS",
+      "themes": [
+        "ELECTRIFICATION",
+        "ADVANCED_MANUFACTURING"
+      ]
     },
     {
       "id": "INE0LCL01028",
@@ -391,7 +482,7 @@
       "ticker": "AVALON",
       "country": "India",
       "currency": "INR",
-      "sector": "Electronics Manufacturing",
+      "sector": "INFORMATION_TECHNOLOGY",
       "status": "WATCH",
       "research_path": null,
       "last_reviewed": "2026-08-30",
@@ -403,7 +494,12 @@
       },
       "thesis_health": "UNDER_REVIEW",
       "position_action": "HOLD",
-      "fresh_capital_action": "WAIT"
+      "fresh_capital_action": "WAIT",
+      "industry": "ELECTRONIC_MANUFACTURING_SERVICES",
+      "themes": [
+        "ADVANCED_MANUFACTURING",
+        "SEMICONDUCTOR_ECOSYSTEM"
+      ]
     },
     {
       "id": "INE1C6T01020",
@@ -411,7 +507,7 @@
       "ticker": "EMMVEE",
       "country": "India",
       "currency": "INR",
-      "sector": "Solar / Manufacturing",
+      "sector": "ENERGY",
       "status": "WATCH",
       "research_path": null,
       "last_reviewed": "2026-08-30",
@@ -423,7 +519,12 @@
       },
       "thesis_health": "UNDER_REVIEW",
       "position_action": "HOLD",
-      "fresh_capital_action": "WAIT"
+      "fresh_capital_action": "WAIT",
+      "industry": "ENERGY_EQUIPMENT",
+      "themes": [
+        "ENERGY_TRANSITION",
+        "CLIMATE_TECH"
+      ]
     },
     {
       "id": "INE713T01028",
@@ -431,7 +532,7 @@
       "ticker": "APOLLO",
       "country": "India",
       "currency": "INR",
-      "sector": "Defence Electronics / Embedded Systems",
+      "sector": "INFORMATION_TECHNOLOGY",
       "status": "WATCH",
       "research_path": null,
       "last_reviewed": "2026-08-30",
@@ -443,7 +544,13 @@
       },
       "thesis_health": "UNDER_REVIEW",
       "position_action": "HOLD",
-      "fresh_capital_action": "WAIT"
+      "fresh_capital_action": "WAIT",
+      "industry": "ELECTRONIC_EQUIPMENT",
+      "themes": [
+        "DEFENCE",
+        "AEROSPACE",
+        "DRONES"
+      ]
     },
     {
       "id": "INE377N01017",
@@ -451,7 +558,7 @@
       "ticker": "WAAREEENER",
       "country": "India",
       "currency": "INR",
-      "sector": "Solar / Manufacturing",
+      "sector": "ENERGY",
       "status": "WATCH",
       "research_path": null,
       "last_reviewed": "2026-08-30",
@@ -463,7 +570,12 @@
       },
       "thesis_health": "UNDER_REVIEW",
       "position_action": "HOLD",
-      "fresh_capital_action": "WAIT"
+      "fresh_capital_action": "WAIT",
+      "industry": "ENERGY_EQUIPMENT",
+      "themes": [
+        "ENERGY_TRANSITION",
+        "CLIMATE_TECH"
+      ]
     },
     {
       "id": "INE299N01021",
@@ -471,7 +583,7 @@
       "ticker": "WAAREERTL",
       "country": "India",
       "currency": "INR",
-      "sector": "Renewable Energy",
+      "sector": "UTILITIES",
       "status": "WATCH",
       "research_path": null,
       "last_reviewed": "2026-08-30",
@@ -483,7 +595,12 @@
       },
       "thesis_health": "UNDER_REVIEW",
       "position_action": "HOLD",
-      "fresh_capital_action": "WAIT"
+      "fresh_capital_action": "WAIT",
+      "industry": "RENEWABLE_POWER",
+      "themes": [
+        "ENERGY_TRANSITION",
+        "CLIMATE_TECH"
+      ]
     },
     {
       "id": "INE024F01011",
@@ -491,7 +608,7 @@
       "ticker": "SHILCTECH",
       "country": "India",
       "currency": "INR",
-      "sector": "Power / Transformers",
+      "sector": "INDUSTRIALS",
       "status": "WATCH",
       "research_path": null,
       "last_reviewed": "2026-08-30",
@@ -503,7 +620,12 @@
       },
       "thesis_health": "UNDER_REVIEW",
       "position_action": "HOLD",
-      "fresh_capital_action": "WAIT"
+      "fresh_capital_action": "WAIT",
+      "industry": "ELECTRICAL_EQUIPMENT",
+      "themes": [
+        "ELECTRIFICATION",
+        "GRID_MODERNIZATION"
+      ]
     },
     {
       "id": "INE419M01019",
@@ -511,7 +633,7 @@
       "ticker": "TDPOWERSYS",
       "country": "India",
       "currency": "INR",
-      "sector": "Power Generation / Electrification",
+      "sector": "INDUSTRIALS",
       "status": "WATCH",
       "research_path": null,
       "last_reviewed": "2026-08-30",
@@ -523,7 +645,12 @@
       },
       "thesis_health": "UNDER_REVIEW",
       "position_action": "HOLD",
-      "fresh_capital_action": "WAIT"
+      "fresh_capital_action": "WAIT",
+      "industry": "ELECTRICAL_EQUIPMENT",
+      "themes": [
+        "ELECTRIFICATION",
+        "GRID_MODERNIZATION"
+      ]
     },
     {
       "id": "INE285K01026",
@@ -531,7 +658,7 @@
       "ticker": "TECHNOE",
       "country": "India",
       "currency": "INR",
-      "sector": "Power Infrastructure",
+      "sector": "INDUSTRIALS",
       "status": "WATCH",
       "research_path": null,
       "last_reviewed": "2026-08-30",
@@ -543,7 +670,12 @@
       },
       "thesis_health": "UNDER_REVIEW",
       "position_action": "HOLD",
-      "fresh_capital_action": "WAIT"
+      "fresh_capital_action": "WAIT",
+      "industry": "CONSTRUCTION_ENGINEERING",
+      "themes": [
+        "ELECTRIFICATION",
+        "GRID_MODERNIZATION"
+      ]
     },
     {
       "id": "INE666D01022",
@@ -551,7 +683,7 @@
       "ticker": "BORORENEW",
       "country": "India",
       "currency": "INR",
-      "sector": "Solar Glass",
+      "sector": "MATERIALS",
       "status": "WATCH",
       "research_path": null,
       "last_reviewed": "2026-08-30",
@@ -563,7 +695,12 @@
       },
       "thesis_health": "UNDER_REVIEW",
       "position_action": "HOLD",
-      "fresh_capital_action": "WAIT"
+      "fresh_capital_action": "WAIT",
+      "industry": "ADVANCED_MATERIALS",
+      "themes": [
+        "ENERGY_TRANSITION",
+        "CLIMATE_TECH"
+      ]
     },
     {
       "id": "INE255Z01027",
@@ -571,7 +708,7 @@
       "ticker": "E2E",
       "country": "India",
       "currency": "INR",
-      "sector": "AI / Cloud Infrastructure",
+      "sector": "INFORMATION_TECHNOLOGY",
       "status": "WATCH",
       "research_path": null,
       "last_reviewed": "2026-08-30",
@@ -583,7 +720,14 @@
       },
       "thesis_health": "UNDER_REVIEW",
       "position_action": "HOLD",
-      "fresh_capital_action": "WAIT"
+      "fresh_capital_action": "WAIT",
+      "industry": "IT_SERVICES",
+      "themes": [
+        "AI",
+        "CLOUD",
+        "ADVANCED_COMPUTING",
+        "DATA_INFRASTRUCTURE"
+      ]
     },
     {
       "id": "INE619B01017",
@@ -591,7 +735,7 @@
       "ticker": "NEWGEN",
       "country": "India",
       "currency": "INR",
-      "sector": "Enterprise Software",
+      "sector": "INFORMATION_TECHNOLOGY",
       "status": "WATCH",
       "research_path": null,
       "last_reviewed": "2026-08-30",
@@ -603,7 +747,12 @@
       },
       "thesis_health": "UNDER_REVIEW",
       "position_action": "HOLD",
-      "fresh_capital_action": "WAIT"
+      "fresh_capital_action": "WAIT",
+      "industry": "SOFTWARE",
+      "themes": [
+        "AI",
+        "DIGITAL_TRANSFORMATION"
+      ]
     },
     {
       "id": "INE0CLI01024",
@@ -611,7 +760,7 @@
       "ticker": "RATEGAIN",
       "country": "India",
       "currency": "INR",
-      "sector": "Enterprise Software",
+      "sector": "INFORMATION_TECHNOLOGY",
       "status": "WATCH",
       "research_path": null,
       "last_reviewed": "2026-08-30",
@@ -623,7 +772,12 @@
       },
       "thesis_health": "UNDER_REVIEW",
       "position_action": "HOLD",
-      "fresh_capital_action": "WAIT"
+      "fresh_capital_action": "WAIT",
+      "industry": "SOFTWARE",
+      "themes": [
+        "SAAS",
+        "DIGITAL_TRANSFORMATION"
+      ]
     },
     {
       "id": "INE251B01027",
@@ -631,7 +785,7 @@
       "ticker": "ZENTEC",
       "country": "India",
       "currency": "INR",
-      "sector": "Defence Technology",
+      "sector": "INDUSTRIALS",
       "status": "WATCH",
       "research_path": null,
       "last_reviewed": "2026-08-30",
@@ -643,7 +797,13 @@
       },
       "thesis_health": "UNDER_REVIEW",
       "position_action": "HOLD",
-      "fresh_capital_action": "WAIT"
+      "fresh_capital_action": "WAIT",
+      "industry": "AEROSPACE_DEFENSE",
+      "themes": [
+        "DEFENCE",
+        "DRONES",
+        "ADVANCED_MANUFACTURING"
+      ]
     },
     {
       "id": "INE711A01022",
@@ -651,7 +811,7 @@
       "ticker": "DATAPATTERNS",
       "country": "India",
       "currency": "INR",
-      "sector": "Defence Electronics",
+      "sector": "INFORMATION_TECHNOLOGY",
       "status": "WATCH",
       "research_path": null,
       "last_reviewed": "2026-08-30",
@@ -663,7 +823,13 @@
       },
       "thesis_health": "UNDER_REVIEW",
       "position_action": "HOLD",
-      "fresh_capital_action": "WAIT"
+      "fresh_capital_action": "WAIT",
+      "industry": "ELECTRONIC_EQUIPMENT",
+      "themes": [
+        "DEFENCE",
+        "AEROSPACE",
+        "SPACE"
+      ]
     },
     {
       "id": "INE126A01031",
@@ -671,7 +837,7 @@
       "ticker": "EMSLTD",
       "country": "India",
       "currency": "INR",
-      "sector": "Water Infrastructure",
+      "sector": "INDUSTRIALS",
       "status": "WATCH",
       "research_path": null,
       "last_reviewed": "2026-08-30",
@@ -683,7 +849,11 @@
       },
       "thesis_health": "UNDER_REVIEW",
       "position_action": "HOLD",
-      "fresh_capital_action": "WAIT"
+      "fresh_capital_action": "WAIT",
+      "industry": "CONSTRUCTION_ENGINEERING",
+      "themes": [
+        "WATER_INFRASTRUCTURE"
+      ]
     },
     {
       "id": "INE330T01021",
@@ -691,7 +861,7 @@
       "ticker": "HAPPYFORG",
       "country": "India",
       "currency": "INR",
-      "sector": "Auto / Precision Components",
+      "sector": "CONSUMER_DISCRETIONARY",
       "status": "WATCH",
       "research_path": null,
       "last_reviewed": "2026-08-30",
@@ -703,7 +873,12 @@
       },
       "thesis_health": "UNDER_REVIEW",
       "position_action": "HOLD",
-      "fresh_capital_action": "WAIT"
+      "fresh_capital_action": "WAIT",
+      "industry": "AUTOMOBILE_COMPONENTS",
+      "themes": [
+        "PRECISION_MANUFACTURING",
+        "ADVANCED_MANUFACTURING"
+      ]
     },
     {
       "id": "INE06K201020",
@@ -711,7 +886,7 @@
       "ticker": "KRN",
       "country": "India",
       "currency": "INR",
-      "sector": "HVAC Components",
+      "sector": "INDUSTRIALS",
       "status": "WATCH",
       "research_path": null,
       "last_reviewed": "2026-08-30",
@@ -723,7 +898,12 @@
       },
       "thesis_health": "UNDER_REVIEW",
       "position_action": "HOLD",
-      "fresh_capital_action": "WAIT"
+      "fresh_capital_action": "WAIT",
+      "industry": "INDUSTRIAL_COMPONENTS",
+      "themes": [
+        "ELECTRIFICATION",
+        "ENERGY_TRANSITION"
+      ]
     },
     {
       "id": "INE754A01055",
@@ -731,7 +911,7 @@
       "ticker": "NETWEB",
       "country": "India",
       "currency": "INR",
-      "sector": "AI / HPC Infrastructure",
+      "sector": "INFORMATION_TECHNOLOGY",
       "status": "WATCH",
       "research_path": null,
       "last_reviewed": "2026-08-30",
@@ -743,7 +923,13 @@
       },
       "thesis_health": "UNDER_REVIEW",
       "position_action": "HOLD",
-      "fresh_capital_action": "WAIT"
+      "fresh_capital_action": "WAIT",
+      "industry": "TECHNOLOGY_HARDWARE",
+      "themes": [
+        "AI",
+        "ADVANCED_COMPUTING",
+        "DATA_INFRASTRUCTURE"
+      ]
     },
     {
       "id": "INE450U01017",
@@ -751,7 +937,7 @@
       "ticker": "PITTIENG",
       "country": "India",
       "currency": "INR",
-      "sector": "Electrical / Precision Components",
+      "sector": "INDUSTRIALS",
       "status": "WATCH",
       "research_path": null,
       "last_reviewed": "2026-08-30",
@@ -763,7 +949,12 @@
       },
       "thesis_health": "UNDER_REVIEW",
       "position_action": "HOLD",
-      "fresh_capital_action": "WAIT"
+      "fresh_capital_action": "WAIT",
+      "industry": "ELECTRICAL_EQUIPMENT",
+      "themes": [
+        "ELECTRIFICATION",
+        "PRECISION_MANUFACTURING"
+      ]
     },
     {
       "id": "INE0BS701011",
@@ -771,7 +962,7 @@
       "ticker": "PREMIERENE",
       "country": "India",
       "currency": "INR",
-      "sector": "Solar / Manufacturing",
+      "sector": "ENERGY",
       "status": "WATCH",
       "research_path": null,
       "last_reviewed": "2026-08-30",
@@ -783,7 +974,12 @@
       },
       "thesis_health": "UNDER_REVIEW",
       "position_action": "HOLD",
-      "fresh_capital_action": "WAIT"
+      "fresh_capital_action": "WAIT",
+      "industry": "ENERGY_EQUIPMENT",
+      "themes": [
+        "ENERGY_TRANSITION",
+        "CLIMATE_TECH"
+      ]
     },
     {
       "id": "INE0Q3R01026",
@@ -791,7 +987,7 @@
       "ticker": "QPOWER",
       "country": "India",
       "currency": "INR",
-      "sector": "Power / Grid Equipment",
+      "sector": "INDUSTRIALS",
       "status": "WATCH",
       "research_path": null,
       "last_reviewed": "2026-08-30",
@@ -803,7 +999,12 @@
       },
       "thesis_health": "UNDER_REVIEW",
       "position_action": "HOLD",
-      "fresh_capital_action": "WAIT"
+      "fresh_capital_action": "WAIT",
+      "industry": "ELECTRICAL_EQUIPMENT",
+      "themes": [
+        "GRID_MODERNIZATION",
+        "ELECTRIFICATION"
+      ]
     },
     {
       "id": "INE0SCB01024",
@@ -811,7 +1012,7 @@
       "ticker": "SAILIFE",
       "country": "India",
       "currency": "INR",
-      "sector": "Pharma / CDMO",
+      "sector": "HEALTH_CARE",
       "status": "WATCH",
       "research_path": null,
       "last_reviewed": "2026-08-30",
@@ -823,7 +1024,12 @@
       },
       "thesis_health": "UNDER_REVIEW",
       "position_action": "HOLD",
-      "fresh_capital_action": "WAIT"
+      "fresh_capital_action": "WAIT",
+      "industry": "LIFE_SCIENCES_TOOLS_SERVICES",
+      "themes": [
+        "CDMO",
+        "BIOTECH_INNOVATION"
+      ]
     },
     {
       "id": "INE0T2G01017",
@@ -831,7 +1037,7 @@
       "ticker": "SENORES",
       "country": "India",
       "currency": "INR",
-      "sector": "Pharma / CDMO",
+      "sector": "HEALTH_CARE",
       "status": "WATCH",
       "research_path": null,
       "last_reviewed": "2026-08-30",
@@ -843,7 +1049,11 @@
       },
       "thesis_health": "UNDER_REVIEW",
       "position_action": "HOLD",
-      "fresh_capital_action": "WAIT"
+      "fresh_capital_action": "WAIT",
+      "industry": "PHARMACEUTICALS",
+      "themes": [
+        "CDMO"
+      ]
     },
     {
       "id": "INE104J01023",
@@ -851,7 +1061,7 @@
       "ticker": "SHILPAMED",
       "country": "India",
       "currency": "INR",
-      "sector": "Pharma / CDMO",
+      "sector": "HEALTH_CARE",
       "status": "WATCH",
       "research_path": null,
       "last_reviewed": "2026-08-30",
@@ -863,7 +1073,12 @@
       },
       "thesis_health": "UNDER_REVIEW",
       "position_action": "HOLD",
-      "fresh_capital_action": "WAIT"
+      "fresh_capital_action": "WAIT",
+      "industry": "PHARMACEUTICALS",
+      "themes": [
+        "CDMO",
+        "BIOTECH_INNOVATION"
+      ]
     },
     {
       "id": "INE0P7Q01017",
@@ -871,7 +1086,7 @@
       "ticker": "SJS",
       "country": "India",
       "currency": "INR",
-      "sector": "Auto / Industrial Components",
+      "sector": "CONSUMER_DISCRETIONARY",
       "status": "WATCH",
       "research_path": null,
       "last_reviewed": "2026-08-30",
@@ -883,7 +1098,11 @@
       },
       "thesis_health": "UNDER_REVIEW",
       "position_action": "HOLD",
-      "fresh_capital_action": "WAIT"
+      "fresh_capital_action": "WAIT",
+      "industry": "AUTOMOBILE_COMPONENTS",
+      "themes": [
+        "PRECISION_MANUFACTURING"
+      ]
     },
     {
       "id": "INE0D0K01014",
@@ -891,7 +1110,7 @@
       "ticker": "YASHHV",
       "country": "India",
       "currency": "INR",
-      "sector": "Power Components",
+      "sector": "INDUSTRIALS",
       "status": "WATCH",
       "research_path": null,
       "last_reviewed": "2026-08-30",
@@ -903,7 +1122,12 @@
       },
       "thesis_health": "UNDER_REVIEW",
       "position_action": "HOLD",
-      "fresh_capital_action": "WAIT"
+      "fresh_capital_action": "WAIT",
+      "industry": "ELECTRICAL_EQUIPMENT",
+      "themes": [
+        "GRID_MODERNIZATION",
+        "ELECTRIFICATION"
+      ]
     },
     {
       "id": "INE548A01028",
@@ -911,7 +1135,7 @@
       "ticker": "HFCL",
       "country": "India",
       "currency": "INR",
-      "sector": "Telecom / Optical Fibre / Defence Electronics",
+      "sector": "INFORMATION_TECHNOLOGY",
       "status": "WATCH",
       "research_path": null,
       "last_reviewed": "2026-08-30",
@@ -923,7 +1147,12 @@
       },
       "thesis_health": "UNDER_REVIEW",
       "position_action": "HOLD",
-      "fresh_capital_action": "WAIT"
+      "fresh_capital_action": "WAIT",
+      "industry": "COMMUNICATIONS_EQUIPMENT",
+      "themes": [
+        "TELECOM_INFRASTRUCTURE",
+        "DEFENCE"
+      ]
     }
   ]
 }
