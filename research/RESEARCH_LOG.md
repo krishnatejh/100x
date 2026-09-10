@@ -83,3 +83,11 @@ This log records material research events and thesis changes. Git history remain
 - **Themes:** Zero to five controlled cross-cutting opportunity areas.
 - **Design principle:** Sector and industry describe what a company fundamentally is and does; themes describe structural opportunities, technologies, strategic value chains, or major end markets.
 - **Migration status:** Taxonomy/schema/documentation updated only. Existing company values in `universe.json` have not yet been migrated; full company mapping will be reviewed separately.
+
+## 2026-09-10 — Universe classification migration
+
+- **Type:** Canonical data migration
+- **Scope:** All 46 companies migrated from legacy free-text `sector` labels to the controlled three-dimensional taxonomy: `sector`, `industry`, and `themes`.
+- **Rules applied:** Exactly one GICS-aligned sector, exactly one controlled primary industry, and zero to five controlled themes per company.
+- **Purpose:** Separate economic classification from cross-cutting opportunity exposure and enable sector/industry concentration and theme/discovery-bias analysis.
+- **Note:** Classification is a taxonomy normalization exercise, not a change to company status, thesis, scores, valuation, or investment action.
