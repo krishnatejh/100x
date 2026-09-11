@@ -79,7 +79,7 @@ At approximately ₹2,231 crore market capitalisation and around 25x TTM P/E, th
 
 This is not a judgement that Knack Packaging is a bad company. It is a capital-allocation judgement: when competing globally for a small number of exceptional long-duration opportunities, Knack does not currently rank high enough.
 
-**Action for an existing leftover IPO position: EXIT rather than continue holding solely because it was allotted in the IPO. Redeployment into the 100X corpus is reasonable, subject to portfolio/tax/liquidity considerations.**
+**Framework action:** The company does not currently qualify for scarce capital allocated to the dedicated 100X corpus. Existing holders should evaluate it against their own objectives, tax circumstances, portfolio construction and opportunity cost.
 
 ## Sources
 
