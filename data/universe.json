@@ -1153,6 +1153,33 @@
         "TELECOM_INFRASTRUCTURE",
         "DEFENCE"
       ]
+    },
+    {
+      "id": "INE0DRI01029",
+      "name": "ESDS Software Solution",
+      "ticker": "ESDS",
+      "country": "India",
+      "currency": "INR",
+      "sector": "INFORMATION_TECHNOLOGY",
+      "status": "WATCH",
+      "research_path": "companies/india/esds-software-solution.md",
+      "last_reviewed": "2026-09-11",
+      "scores": {
+        "business_potential": 8.5,
+        "probability_of_success": 4.5,
+        "investment_attractiveness": 2.5,
+        "overall_100x": 5.5
+      },
+      "thesis_health": "UNDER_REVIEW",
+      "position_action": "HOLD",
+      "fresh_capital_action": "WAIT",
+      "industry": "IT_SERVICES",
+      "themes": [
+        "AI",
+        "CLOUD",
+        "ADVANCED_COMPUTING",
+        "DATA_INFRASTRUCTURE"
+      ]
     }
   ]
 }
