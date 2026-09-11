@@ -1180,6 +1180,30 @@
         "ADVANCED_COMPUTING",
         "DATA_INFRASTRUCTURE"
       ]
+    },
+    {
+      "id": "INE17QZ01016",
+      "name": "Knack Packaging",
+      "ticker": "KNACK",
+      "country": "India",
+      "currency": "INR",
+      "sector": "MATERIALS",
+      "status": "REJECTED",
+      "research_path": "research/KNACK_PACKAGING_2026-09-11.md",
+      "last_reviewed": "2026-09-11",
+      "scores": {
+        "business_potential": 5.5,
+        "probability_of_success": 6,
+        "investment_attractiveness": 4.5,
+        "overall_100x": 4.8
+      },
+      "thesis_health": "INTACT",
+      "position_action": "EXIT",
+      "fresh_capital_action": "WAIT",
+      "industry": "CONSTRUCTION_MATERIALS",
+      "themes": [
+        "ADVANCED_MANUFACTURING"
+      ]
     }
   ]
 }
