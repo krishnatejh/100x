@@ -1204,6 +1204,31 @@
       "themes": [
         "ADVANCED_MANUFACTURING"
       ]
+    },
+    {
+      "id": "INE551W01028",
+      "name": "Ujjivan Small Finance Bank",
+      "ticker": "UJJIVANSFB",
+      "country": "India",
+      "currency": "INR",
+      "sector": "FINANCIALS",
+      "status": "REJECTED",
+      "research_path": "research/UJJIVAN_SMALL_FINANCE_BANK_2026-09-11.md",
+      "last_reviewed": "2026-09-11",
+      "scores": {
+        "business_potential": 6.5,
+        "probability_of_success": 6.5,
+        "investment_attractiveness": 5.5,
+        "overall_100x": 5.4
+      },
+      "thesis_health": "INTACT",
+      "position_action": "EXIT",
+      "fresh_capital_action": "WAIT",
+      "industry": "BANKS",
+      "themes": [
+        "FINTECH",
+        "DIGITAL_PAYMENTS"
+      ]
     }
   ]
 }
