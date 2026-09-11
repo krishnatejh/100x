@@ -112,3 +112,16 @@ This log records material research events and thesis changes. Git history remain
 - **Interpretation:** FACT for reported operating developments and disclosed/announced infrastructure developments; INFERENCE for moat durability and long-term economics; SPECULATION explicitly separated for the 50X–100X outcome.
 - **Decision impact:** No CORE promotion. E2E remains a HIGH-PRIORITY WATCH because business potential is exceptional but probability and investment attractiveness are not yet strong enough. The decisive question is whether E2E becomes a high-return AI platform or remains a capital-intensive GPU infrastructure operator.
 - **Next review question:** Can multiple GPU clusters demonstrate sustained utilisation, attractive incremental ROIC and improving free-cash-flow conversion without excessive leverage or dilution?
+
+
+## 2026-09-11 — ESDS Software Solution full 100X review
+
+- **Type:** Full research / new candidate added
+- **Previous status/action:** Not previously in canonical universe
+- **New status/action:** WATCH (HIGH PRIORITY) / thesis UNDER_REVIEW / HOLD / fresh capital WAIT
+- **What changed:** Completed a full 100X framework review and added ESDS Software Solution to `data/universe.json` with a canonical research page at `companies/india/esds-software-solution.md`. The review covered cloud/data-centre/managed-services/software economics, AI/GPU infrastructure, financial trajectory, moat, management, market-cap mathematics, valuation, scenarios, failure modes and discovery bias.
+- **Scores:** Business Potential 8.5/10; Probability of Success 4.5/10; Investment Attractiveness 2.5/10; Overall 100X Score 5.5/10.
+- **Evidence:** FY26 financial growth and profitability were strong. The large five-year Sharon AI agreement creates substantial upside optionality but is also the primary risk because the commitment is very large relative to ESDS's historical scale. Customer advances and headline contract values must not be confused with recurring free cash flow or automatically treated as ESDS revenue.
+- **Interpretation:** FACT for reported financials, disclosed business lines and publicly disclosed contract arrangements; INFERENCE for moat and long-term value capture; SPECULATION explicitly separated for 50X–100X outcomes.
+- **Decision impact:** ESDS is not promoted to CORE. It enters as a HIGH-PRIORITY WATCH with fresh capital WAIT. Current valuation and unresolved contract/unit-economics risk materially reduce investment asymmetry.
+- **Next review question:** Do AI infrastructure deployments convert into independently verifiable revenue, sustained utilisation, attractive incremental ROIC and durable free cash flow without excessive leverage or dilution?
