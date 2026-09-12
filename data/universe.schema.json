@@ -32,6 +32,7 @@
           "industry",
           "themes",
           "status",
+          "beyond_100x",
           "thesis_health",
           "position_action",
           "fresh_capital_action",
@@ -258,6 +259,10 @@
             "uniqueItems": true,
             "minItems": 0,
             "maxItems": 5
+          },
+          "beyond_100x": {
+            "type": "boolean",
+            "description": "Discovery flag for companies with a compelling investment case worth surfacing outside the strict 100X framework. CORE companies must always be false."
           }
         }
       }
