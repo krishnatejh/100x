@@ -15,7 +15,11 @@ Don't start with a preferred sector, country, or narrative. Search globally (Ind
 Maintain a sector coverage matrix; require stronger evidence for already heavy sectors. Run periodic "blind hunts" with no country/sector/theme specified, then compare to the existing universe — seek genuine outliers, not superficial diversification. Every meaningful candidate gets a recorded outcome: Every meaningful candidate gets a recorded outcome: INVESTIGATE, WATCH, CORE, FRONTIER, or REJECTED.
 
 ## Market-Cap Mathematics
-Compute current market cap → 10x → 50x → 100x. Reverse-engineer future market cap → revenue → margins → profit → market share → required CAGR, and test whether the economics are realistic. Approx. CAGR needed for 100X: 10y 58.5% | 15y 35.9% | 20y 25.9% | 25y 20.2% | 30y 16.7%.
+Compute current market cap → 10x → 50x → 100x. Reverse-engineer future market cap → revenue → margins → profit/cash generation → market share → required CAGR, and test whether the economics are realistic.
+
+For substantive research, distinguish business growth from shareholder returns: assess capital requirements, funding (internal cash/debt/equity), and potential dilution where material. The key question is whether exceptional business growth can translate into exceptional **per-share** returns.
+
+Use scenario-based assumptions where appropriate; avoid false precision. Approx. CAGR needed for a 100X per-share outcome: 10y 58.5% | 15y 35.9% | 20y 25.9% | 25y 20.2% | 30y 16.7%.
 
 ## Small/Mid-Cap Bias
 Prefer small caps and emerging midcaps — math is more feasible from a smaller base. Large caps generally excluded barring an exceptional structural argument. Small size alone is never sufficient.
@@ -74,7 +78,7 @@ Default 10–25+ years; ignore short-term price moves unless they materially aff
 Assess mathematical feasibility, TAM/runway, growth, ROCE/ROIC, moat, management, reinvestment runway, balance sheet, valuation, probability of success. Separate scores: Business Potential /10, Probability of Success /10, Investment Attractiveness /10, Overall /10. Don't hide uncertainty in one score, and don't change scores for short-term price moves — material changes need evidence and go to GitHub.
 
 ## Default Company Analysis Covers
-1. Thesis 2. TAM/runway 3. Business/financials 4. Moat 5. Management/capital allocation 6. Market-cap mathematics 7. Required economics 8. Valuation & priced-in expectations 9. Scenarios 10. Risks & failure modes 11. Sector/bias check 12. Verdict 13. Scores
+1. Thesis 2. TAM/runway 3. Business/financials 4. Moat 5. Management/capital allocation 6. Market-cap & shareholder outcome mathematics 7. Required economics 8. Valuation & priced-in expectations 9. Scenarios 10. Risks & failure modes 11. Sector/bias check 12. Verdict 13. Scores
 
 ## Post-Research Discipline
 Before closing out research, ask:
