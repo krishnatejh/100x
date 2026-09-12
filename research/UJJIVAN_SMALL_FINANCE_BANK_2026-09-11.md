@@ -92,27 +92,44 @@ This is not a claim that Ujjivan SFB is a poor bank or a poor conventional inves
 
 ## Beyond the 100X Framework
 
-### Why it is here
+### Why it qualifies
 
-Ujjivan does not meet the probability-weighted 50–100X hurdle, but the research supports a separately compelling possibility: it could become a respectable long-term banking compounder if the current improvement in profitability, asset quality, liability franchise and portfolio diversification proves durable through a full credit cycle.
+Ujjivan does **not** meet the probability-weighted 50–100X hurdle. However, the research establishes a separately compelling case worth surfacing: the bank could become a solid long-term financial compounder if the recent improvement in profitability, asset quality, liability franchise and portfolio diversification proves durable.
+
+This is a different proposition from the 100X thesis. The potential return driver is sustained book-value compounding and healthy ROE from a relatively reasonable valuation, rather than an extreme expansion in market capitalisation.
 
 ### Alternative investment thesis
 
-The constructive case rests on sustained execution rather than an extreme scale outcome. Continued growth in deposits and loans, a stronger granular liability franchise, increasing secured-loan mix and disciplined credit underwriting could support healthy returns on equity and book-value compounding. At a valuation that is not obviously demanding, this creates a potentially attractive conventional long-term investment case even without a credible 100X path.
+The constructive case rests on execution through a full cycle:
+
+- Continued deposit and loan growth can expand the franchise.
+- A stronger granular liability base can improve funding resilience and economics.
+- Increasing the secured-loan mix can reduce dependence on concentrated microfinance risk.
+- Disciplined underwriting and credit costs can support durable RoA/RoE.
+- Retained earnings can compound book value meaningfully over time.
+- A future universal-bank transition is optional upside, not part of the base case.
 
 ### What must be true
 
-- The shift away from concentrated microfinance risk must continue and remain economically attractive.
-- Asset quality and credit costs must remain resilient through a less favourable credit cycle.
-- Deposit growth and funding costs must improve sufficiently to support durable profitability.
-- RoA/RoE must remain attractive without excessive leverage, dilution or risk-taking.
-- Management must demonstrate consistent capital allocation and underwriting discipline over multiple years.
+- The shift away from concentrated microfinance exposure continues without sacrificing underwriting quality.
+- Asset quality and credit costs remain resilient through a less favourable credit cycle.
+- Deposit growth and funding costs support a durable liability franchise.
+- RoA/RoE remain attractive without excessive leverage, dilution or risk-taking.
+- Management demonstrates consistent capital allocation and underwriting discipline over multiple years.
 
-### Why it remains a watch, not a conclusion
+### Key risks
 
-Recent FY26 and Q1 FY27 improvement is encouraging, but one favourable period does not establish a durable banking franchise. The critical unresolved question is whether these economics survive a full cycle. Credit risk, funding competition and the legacy microfinance exposure remain material.
+- Credit losses can reverse earnings and book-value compounding quickly.
+- Funding competition may compress margins.
+- Secured diversification may deliver lower economics than expected.
+- Regulatory constraints can limit growth and capital efficiency.
+- Recent strong results may represent a favourable phase rather than durable franchise improvement.
 
-**Beyond-100X perspective:** Worth surfacing for further monitoring as a potential long-term compounder; not yet an independently established high-conviction investment.
+### Beyond-100X verdict
+
+**Worth surfacing and monitoring as a potential conventional long-term compounder. Not yet an independently established high-conviction investment.**
+
+The key evidence required is performance through a full credit cycle. Until then, the case remains promising rather than proven.
 
 ## Sources
 
