@@ -1,5 +1,5 @@
 {
-  "schema_version": "3.0",
+  "schema_version": "3.1",
   "countries": [
     "India",
     "USA"
@@ -29,7 +29,8 @@
         "AEROSPACE",
         "DEFENCE",
         "PRECISION_MANUFACTURING"
-      ]
+      ],
+      "beyond_100x": false
     },
     {
       "id": "INE055S01018",
@@ -55,7 +56,8 @@
         "DEFENCE",
         "AEROSPACE",
         "ADVANCED_MANUFACTURING"
-      ]
+      ],
+      "beyond_100x": false
     },
     {
       "id": "INE084101034",
@@ -80,7 +82,8 @@
       "themes": [
         "ADVANCED_MANUFACTURING",
         "PRECISION_MANUFACTURING"
-      ]
+      ],
+      "beyond_100x": false
     },
     {
       "id": "INE864I01014",
@@ -107,7 +110,8 @@
         "AEROSPACE",
         "DEFENCE",
         "PRECISION_MANUFACTURING"
-      ]
+      ],
+      "beyond_100x": false
     },
     {
       "id": "INE457L01029",
@@ -131,7 +135,8 @@
       "industry": "HOUSEHOLD_DURABLES",
       "themes": [
         "ADVANCED_MANUFACTURING"
-      ]
+      ],
+      "beyond_100x": false
     },
     {
       "id": "INE0DYJ01015",
@@ -156,7 +161,8 @@
       "themes": [
         "ADVANCED_MANUFACTURING",
         "SEMICONDUCTOR_ECOSYSTEM"
-      ]
+      ],
+      "beyond_100x": false
     },
     {
       "id": "INE0LRU01027",
@@ -180,7 +186,8 @@
       "industry": "PHARMACEUTICALS",
       "themes": [
         "CDMO"
-      ]
+      ],
+      "beyond_100x": false
     },
     {
       "id": "INE00FF01025",
@@ -204,7 +211,8 @@
       "industry": "PHARMACEUTICALS",
       "themes": [
         "CDMO"
-      ]
+      ],
+      "beyond_100x": false
     },
     {
       "id": "INE024001021",
@@ -228,7 +236,8 @@
       "industry": "INDUSTRIAL_COMPONENTS",
       "themes": [
         "ADVANCED_MANUFACTURING"
-      ]
+      ],
+      "beyond_100x": false
     },
     {
       "id": "INE371P01015",
@@ -252,7 +261,8 @@
       "industry": "HOUSEHOLD_DURABLES",
       "themes": [
         "ADVANCED_MANUFACTURING"
-      ]
+      ],
+      "beyond_100x": false
     },
     {
       "id": "INE386C01029",
@@ -277,7 +287,8 @@
       "themes": [
         "DEFENCE",
         "AEROSPACE"
-      ]
+      ],
+      "beyond_100x": false
     },
     {
       "id": "INE290S01011",
@@ -301,7 +312,8 @@
       "industry": "DIGITAL_PLATFORMS",
       "themes": [
         "DIGITAL_TRANSFORMATION"
-      ]
+      ],
+      "beyond_100x": false
     },
     {
       "id": "INE753U01022",
@@ -325,7 +337,8 @@
       "industry": "AUTOMOBILE_COMPONENTS",
       "themes": [
         "PRECISION_MANUFACTURING"
-      ]
+      ],
+      "beyond_100x": false
     },
     {
       "id": "INE600Y01019",
@@ -350,7 +363,8 @@
       "themes": [
         "ELECTRIFICATION",
         "GRID_MODERNIZATION"
-      ]
+      ],
+      "beyond_100x": false
     },
     {
       "id": "INE221B01012",
@@ -376,7 +390,8 @@
         "AEROSPACE",
         "DEFENCE",
         "PRECISION_MANUFACTURING"
-      ]
+      ],
+      "beyond_100x": false
     },
     {
       "id": "INE918Z01012",
@@ -401,7 +416,8 @@
       "themes": [
         "SEMICONDUCTOR_ECOSYSTEM",
         "ADVANCED_MANUFACTURING"
-      ]
+      ],
+      "beyond_100x": false
     },
     {
       "id": "INE947Q01028",
@@ -425,7 +441,8 @@
       "industry": "PHARMACEUTICALS",
       "themes": [
         "CDMO"
-      ]
+      ],
+      "beyond_100x": false
     },
     {
       "id": "INE794A01010",
@@ -449,7 +466,8 @@
       "industry": "PHARMACEUTICALS",
       "themes": [
         "CDMO"
-      ]
+      ],
+      "beyond_100x": false
     },
     {
       "id": "INE386D01027",
@@ -474,7 +492,8 @@
       "themes": [
         "ELECTRIFICATION",
         "ADVANCED_MANUFACTURING"
-      ]
+      ],
+      "beyond_100x": false
     },
     {
       "id": "INE0LCL01028",
@@ -499,7 +518,8 @@
       "themes": [
         "ADVANCED_MANUFACTURING",
         "SEMICONDUCTOR_ECOSYSTEM"
-      ]
+      ],
+      "beyond_100x": false
     },
     {
       "id": "INE1C6T01020",
@@ -524,7 +544,8 @@
       "themes": [
         "ENERGY_TRANSITION",
         "CLIMATE_TECH"
-      ]
+      ],
+      "beyond_100x": false
     },
     {
       "id": "INE713T01028",
@@ -550,7 +571,8 @@
         "DEFENCE",
         "AEROSPACE",
         "DRONES"
-      ]
+      ],
+      "beyond_100x": false
     },
     {
       "id": "INE377N01017",
@@ -575,7 +597,8 @@
       "themes": [
         "ENERGY_TRANSITION",
         "CLIMATE_TECH"
-      ]
+      ],
+      "beyond_100x": false
     },
     {
       "id": "INE299N01021",
@@ -600,7 +623,8 @@
       "themes": [
         "ENERGY_TRANSITION",
         "CLIMATE_TECH"
-      ]
+      ],
+      "beyond_100x": false
     },
     {
       "id": "INE024F01011",
@@ -625,7 +649,8 @@
       "themes": [
         "ELECTRIFICATION",
         "GRID_MODERNIZATION"
-      ]
+      ],
+      "beyond_100x": false
     },
     {
       "id": "INE419M01019",
@@ -650,7 +675,8 @@
       "themes": [
         "ELECTRIFICATION",
         "GRID_MODERNIZATION"
-      ]
+      ],
+      "beyond_100x": false
     },
     {
       "id": "INE285K01026",
@@ -675,7 +701,8 @@
       "themes": [
         "ELECTRIFICATION",
         "GRID_MODERNIZATION"
-      ]
+      ],
+      "beyond_100x": false
     },
     {
       "id": "INE666D01022",
@@ -700,7 +727,8 @@
       "themes": [
         "ENERGY_TRANSITION",
         "CLIMATE_TECH"
-      ]
+      ],
+      "beyond_100x": false
     },
     {
       "id": "INE255Z01027",
@@ -727,7 +755,8 @@
         "CLOUD",
         "ADVANCED_COMPUTING",
         "DATA_INFRASTRUCTURE"
-      ]
+      ],
+      "beyond_100x": false
     },
     {
       "id": "INE619B01017",
@@ -752,7 +781,8 @@
       "themes": [
         "AI",
         "DIGITAL_TRANSFORMATION"
-      ]
+      ],
+      "beyond_100x": false
     },
     {
       "id": "INE0CLI01024",
@@ -777,7 +807,8 @@
       "themes": [
         "SAAS",
         "DIGITAL_TRANSFORMATION"
-      ]
+      ],
+      "beyond_100x": false
     },
     {
       "id": "INE251B01027",
@@ -803,7 +834,8 @@
         "DEFENCE",
         "DRONES",
         "ADVANCED_MANUFACTURING"
-      ]
+      ],
+      "beyond_100x": false
     },
     {
       "id": "INE711A01022",
@@ -829,7 +861,8 @@
         "DEFENCE",
         "AEROSPACE",
         "SPACE"
-      ]
+      ],
+      "beyond_100x": false
     },
     {
       "id": "INE126A01031",
@@ -853,7 +886,8 @@
       "industry": "CONSTRUCTION_ENGINEERING",
       "themes": [
         "WATER_INFRASTRUCTURE"
-      ]
+      ],
+      "beyond_100x": false
     },
     {
       "id": "INE330T01021",
@@ -878,7 +912,8 @@
       "themes": [
         "PRECISION_MANUFACTURING",
         "ADVANCED_MANUFACTURING"
-      ]
+      ],
+      "beyond_100x": false
     },
     {
       "id": "INE06K201020",
@@ -903,7 +938,8 @@
       "themes": [
         "ELECTRIFICATION",
         "ENERGY_TRANSITION"
-      ]
+      ],
+      "beyond_100x": false
     },
     {
       "id": "INE754A01055",
@@ -929,7 +965,8 @@
         "AI",
         "ADVANCED_COMPUTING",
         "DATA_INFRASTRUCTURE"
-      ]
+      ],
+      "beyond_100x": false
     },
     {
       "id": "INE450U01017",
@@ -954,7 +991,8 @@
       "themes": [
         "ELECTRIFICATION",
         "PRECISION_MANUFACTURING"
-      ]
+      ],
+      "beyond_100x": false
     },
     {
       "id": "INE0BS701011",
@@ -979,7 +1017,8 @@
       "themes": [
         "ENERGY_TRANSITION",
         "CLIMATE_TECH"
-      ]
+      ],
+      "beyond_100x": false
     },
     {
       "id": "INE0Q3R01026",
@@ -1004,7 +1043,8 @@
       "themes": [
         "GRID_MODERNIZATION",
         "ELECTRIFICATION"
-      ]
+      ],
+      "beyond_100x": false
     },
     {
       "id": "INE0SCB01024",
@@ -1029,7 +1069,8 @@
       "themes": [
         "CDMO",
         "BIOTECH_INNOVATION"
-      ]
+      ],
+      "beyond_100x": false
     },
     {
       "id": "INE0T2G01017",
@@ -1053,7 +1094,8 @@
       "industry": "PHARMACEUTICALS",
       "themes": [
         "CDMO"
-      ]
+      ],
+      "beyond_100x": false
     },
     {
       "id": "INE104J01023",
@@ -1078,7 +1120,8 @@
       "themes": [
         "CDMO",
         "BIOTECH_INNOVATION"
-      ]
+      ],
+      "beyond_100x": false
     },
     {
       "id": "INE0P7Q01017",
@@ -1102,7 +1145,8 @@
       "industry": "AUTOMOBILE_COMPONENTS",
       "themes": [
         "PRECISION_MANUFACTURING"
-      ]
+      ],
+      "beyond_100x": false
     },
     {
       "id": "INE0D0K01014",
@@ -1127,7 +1171,8 @@
       "themes": [
         "GRID_MODERNIZATION",
         "ELECTRIFICATION"
-      ]
+      ],
+      "beyond_100x": false
     },
     {
       "id": "INE548A01028",
@@ -1152,7 +1197,8 @@
       "themes": [
         "TELECOM_INFRASTRUCTURE",
         "DEFENCE"
-      ]
+      ],
+      "beyond_100x": false
     },
     {
       "id": "INE0DRI01029",
@@ -1179,7 +1225,8 @@
         "CLOUD",
         "ADVANCED_COMPUTING",
         "DATA_INFRASTRUCTURE"
-      ]
+      ],
+      "beyond_100x": false
     },
     {
       "id": "INE17QZ01016",
@@ -1203,7 +1250,8 @@
       "industry": "CONSTRUCTION_MATERIALS",
       "themes": [
         "ADVANCED_MANUFACTURING"
-      ]
+      ],
+      "beyond_100x": false
     },
     {
       "id": "INE551W01028",
@@ -1228,7 +1276,8 @@
       "themes": [
         "FINTECH",
         "DIGITAL_PAYMENTS"
-      ]
+      ],
+      "beyond_100x": true
     }
   ]
 }
