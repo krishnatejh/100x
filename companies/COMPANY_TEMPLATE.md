@@ -16,7 +16,7 @@
 
 What would have to be true for this company to become an exceptional long-term compounder?
 
-Clearly label **FACT**, **INFERENCE**, and **SPECULATION** where useful.
+Clearly label **FACT**, **MANAGEMENT CLAIM**, **INFERENCE**, and **SPECULATION** where useful.
 
 ## 2. TAM / runway
 
@@ -76,6 +76,21 @@ State the assumptions behind each scenario. Avoid arbitrary price targets.
 - Customer concentration
 - Dilution risk
 
+## Decision-Grade Evidence
+
+Include only evidence that materially affects the thesis, classification, scores, valuation conclusion or a key assumption. Do not cite every routine statement.
+
+### DGE-1 — [Short title]
+- **Claim:**
+- **Why it matters:**
+- **Source:**
+- **Date / reporting period:**
+- **Location:**
+- **Type:** FACT / MANAGEMENT CLAIM / INFERENCE / SPECULATION
+- **Basis:** *(required for INFERENCE; identify supporting evidence/DGE items)*
+
+Add further DGE items as needed. The higher the conviction or importance of the decision, the stronger the evidence trail should be.
+
 ## 10. Disconfirming evidence
 
 List the evidence that would weaken or invalidate the thesis. Define what should be monitored.
@@ -123,6 +138,7 @@ Explain clearly why the company deserves separate discovery. This is not a secon
 
 ## Research status
 
+- **Decision-Grade Evidence status:** Not applicable / Partial / Complete for current research scope
 - **Primary sources reviewed:**
 - **Latest material event:**
 - **Next research question:**
