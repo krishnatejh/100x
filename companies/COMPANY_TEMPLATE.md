@@ -107,6 +107,20 @@ Explain why.
 | Investment Attractiveness | /10 |
 | Overall 100X Score | /10 |
 
+## Beyond the 100X Framework *(only when `beyond_100x: true`)*
+
+Include this section only when research has identified a compelling investment case worth surfacing outside the strict 100X framework.
+
+### Why it is here
+
+### Alternative investment thesis
+
+### What must be true
+
+### Key risks / unresolved questions
+
+Explain clearly why the company deserves separate discovery. This is not a second status, score, portfolio, or recommendation. Do not add this section for `beyond_100x: false` companies. CORE companies must not use this section because they are already surfaced by the primary 100X framework.
+
 ## Research status
 
 - **Primary sources reviewed:**
