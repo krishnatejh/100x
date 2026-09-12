@@ -90,6 +90,30 @@ This is not a claim that Ujjivan SFB is a poor bank or a poor conventional inves
 
 **Framework action:** Do not allocate scarce dedicated 100X capital. Existing holders should evaluate separately according to their own investment objectives, taxes, diversification and opportunity cost.
 
+## Beyond the 100X Framework
+
+### Why it is here
+
+Ujjivan does not meet the probability-weighted 50–100X hurdle, but the research supports a separately compelling possibility: it could become a respectable long-term banking compounder if the current improvement in profitability, asset quality, liability franchise and portfolio diversification proves durable through a full credit cycle.
+
+### Alternative investment thesis
+
+The constructive case rests on sustained execution rather than an extreme scale outcome. Continued growth in deposits and loans, a stronger granular liability franchise, increasing secured-loan mix and disciplined credit underwriting could support healthy returns on equity and book-value compounding. At a valuation that is not obviously demanding, this creates a potentially attractive conventional long-term investment case even without a credible 100X path.
+
+### What must be true
+
+- The shift away from concentrated microfinance risk must continue and remain economically attractive.
+- Asset quality and credit costs must remain resilient through a less favourable credit cycle.
+- Deposit growth and funding costs must improve sufficiently to support durable profitability.
+- RoA/RoE must remain attractive without excessive leverage, dilution or risk-taking.
+- Management must demonstrate consistent capital allocation and underwriting discipline over multiple years.
+
+### Why it remains a watch, not a conclusion
+
+Recent FY26 and Q1 FY27 improvement is encouraging, but one favourable period does not establish a durable banking franchise. The critical unresolved question is whether these economics survive a full cycle. Credit risk, funding competition and the legacy microfinance exposure remain material.
+
+**Beyond-100X perspective:** Worth surfacing for further monitoring as a potential long-term compounder; not yet an independently established high-conviction investment.
+
 ## Sources
 
 Primary sources: Ujjivan Small Finance Bank FY26 annual-report and investor-relations disclosures; FY26 Q4 and FY27 Q1 results/press releases and earnings materials. Regulatory context: the bank's disclosures regarding the RBI returning its universal-bank transition application. Market-cap and valuation figures are current market-data estimates as of September 2026.
