@@ -137,6 +137,7 @@ Each company uses three distinct classification dimensions:
 | `industry` | enum | One controlled primary industry |
 | `themes` | array | Zero to five controlled themes |
 | `status` | enum | Research classification |
+| `beyond_100x` | boolean | Discovery flag for a compelling investment case worth surfacing outside the strict 100X framework |
 | `thesis_health` | enum | Evolution of long-term thesis |
 | `position_action` | enum | Action for an existing position |
 | `fresh_capital_action` | enum | Whether new capital should be allocated now |
@@ -151,6 +152,19 @@ Each company uses three distinct classification dimensions:
 - **REJECTED** — investigated and excluded; reason retained.
 
 Status is a research classification, not a buy/sell signal.
+
+## Beyond 100X discovery flag
+
+`beyond_100x` is a **discovery flag**, not a second status, score, portfolio, or investment recommendation.
+
+- `true` — research has identified a compelling investment case worth surfacing outside the strict 100X framework.
+- `false` — no such independently compelling case has been established, or it does not warrant separate discovery.
+
+A company remains represented **once** in `data/universe.json` and has one canonical research document. The Beyond 100X experience is a filtered view of the same canonical universe.
+
+**Eligibility:** `WATCH`, `FRONTIER`, and `REJECTED` companies may be flagged `true` when explicitly justified by research. `CORE` companies must always have `beyond_100x: false`, because they are already surfaced by the primary 100X framework.
+
+The flag must not be set automatically merely because a company fails the 100X test; a specific alternative investment case must be established and documented.
 
 ## Thesis-health taxonomy
 - **STRENGTHENING** — new evidence increases confidence.
