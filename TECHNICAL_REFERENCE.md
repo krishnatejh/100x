@@ -57,6 +57,25 @@ It is a **discovery flag**, not a second status, score, portfolio or recommendat
 - `research/` — dated research notes and changes.
 - `research/RESEARCH_LOG.md` — material research decisions and thesis changes.
 
+## Decision-Grade Evidence (DGE)
+
+Detailed company research should preserve durable provenance for **decision-driving evidence** without attempting to cite every routine statement.
+
+DGE belongs in the relevant company research Markdown so that evidence remains close to the reasoning it supports. A typical DGE item records:
+
+- DGE ID/title.
+- Claim.
+- Why it matters to the decision.
+- Specific source.
+- Date/reporting period.
+- Page, section, timestamp or equivalent location where practical.
+- Type: FACT, MANAGEMENT CLAIM, INFERENCE or SPECULATION.
+- Supporting basis for an inference.
+
+Chat-local citation tokens or generic source categories are not sufficient durable provenance for material conclusions. Prefer stable document names and links where available.
+
+DGE is a research-governance convention, not a new canonical JSON database. One company remains one canonical universe record with one corresponding research document.
+
 ## Validation
 
 Before consuming or committing universe data, validate `data/universe.json` against `data/universe.schema.json`.
