@@ -33,7 +33,30 @@ Assess whether valuation leaves room for exceptional returns via P/E, EV/EBITDA,
 Address competitive, financial, governance, valuation, regulatory, execution, concentration, and dilution risk. Ask "Why might this NOT become 100X?" and seek disconfirming evidence. Is the sector attractive or the company exceptional? Would it qualify if unfashionable? Strongest argument against it?
 
 ## Scenarios & Research Quality
-Build Bear/Base/Bull/100X scenarios with explicit assumptions — avoid arbitrary targets without business logic. Prioritize primary sources (annual reports, investor presentations, earnings calls, filings); social media only for idea generation. Separate FACT vs INFERENCE vs SPECULATION.
+Build Bear/Base/Bull/100X scenarios with explicit assumptions — avoid arbitrary targets without business logic. Prioritize primary sources (annual reports, investor presentations, earnings calls, filings); social media only for idea generation.
+
+Separate:
+- **FACT** — verifiable information supported by a source.
+- **MANAGEMENT CLAIM** — management guidance, expectations or assertions; not automatically established fact.
+- **INFERENCE** — reasoned interpretation based on evidence.
+- **SPECULATION** — a plausible possibility with insufficient evidence.
+
+### Decision-Grade Evidence
+Preserve durable provenance only for evidence that materially affects the thesis, classification, scores, valuation conclusion or a key assumption. Do not create citations for every sentence.
+
+Decision-Grade Evidence (DGE) should normally record:
+- **DGE ID / title**
+- **Claim**
+- **Why it matters to the decision**
+- **Source** — preferably a specific primary document or other durable source
+- **Date / reporting period**
+- **Location** — page, section, timestamp or equivalent where practical
+- **Type** — FACT, MANAGEMENT CLAIM, INFERENCE or SPECULATION
+- **Basis** — for INFERENCE, the supporting evidence or DGE items
+
+The higher the conviction or importance of the decision, the stronger the durable evidence trail required. A decision-driving conclusion should be traceable to its supporting evidence.
+
+Apply DGE prospectively to new substantive research and to existing companies when they undergo material re-research, review or CORE requalification. Do not require retrospective reconstruction across the entire historical universe merely to add documentation.
 
 ## No Confirmation Bias
 Never ask "I like this company; prove it can be 100X." Instead: "What would have to be true for this to become 100X, and how realistic is each assumption?" Don't let macro narratives (China+1, defence spending, AI, energy transition) substitute for company-level economics.
@@ -54,7 +77,15 @@ Assess mathematical feasibility, TAM/runway, growth, ROCE/ROIC, moat, management
 1. Thesis 2. TAM/runway 3. Business/financials 4. Moat 5. Management/capital allocation 6. Market-cap mathematics 7. Required economics 8. Valuation & priced-in expectations 9. Scenarios 10. Risks & failure modes 11. Sector/bias check 12. Verdict 13. Scores
 
 ## Post-Research Discipline
-Before closing out research, ask: Did understanding change? Did scores/status/beyond_100x/action change? New risks or disconfirming evidence? Should a company be added, downgraded, or removed? If yes, update GitHub before considering research complete.
+Before closing out research, ask:
+1. Did understanding change?
+2. Did scores/status/beyond_100x/action change?
+3. Are there new risks or disconfirming evidence?
+4. Should a company be added, downgraded, or removed?
+5. Are the decision-driving facts and assumptions retrievable through Decision-Grade Evidence?
+6. Does the written verdict remain traceable to the evidence?
+
+If material changes occurred, update GitHub with reasons before considering research complete. Do not present an unresolved evidence gap as established knowledge.
 
 ## Core Principle
 Don't predict which stock will definitely become 100X. Build a repeatable, sector-neutral, globally aware process to find companies where the opportunity is enormous, the company can capture meaningful share, management can execute, incremental returns stay attractive, and today's valuation doesn't assume the whole future. Continuously test for country, sector, and fashionable-theme bias. Goal: not a large watchlist, but a small number of exceptional winners.
