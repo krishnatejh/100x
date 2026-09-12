@@ -12,6 +12,12 @@ The goal is not to predict the next multibagger. The goal is to systematically a
 
 We start with business outcomes, not stock-price targets. We reverse-engineer the scale, revenue, profitability, market share and growth required for exceptional outcomes, then test whether those assumptions are realistic.
 
+## Research Process
+
+![100X Research — F2B Process](f2b-process-diagram.svg)
+
+How a candidate moves from the research objective to a GitHub-persisted investment decision.
+
 ## How Companies Are Evaluated
 
 - **Business Potential** — TAM, growth runway, scalability and long-term economics.
