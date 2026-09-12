@@ -15,6 +15,16 @@ We do not predict 100X winners. We ask what would have to be true for exceptiona
 
 Status is stored once in `data/universe.json`. CORE/WATCH/FRONTIER/REJECTED are application views and are not maintained as separate company lists.
 
+## Beyond the 100X Framework
+
+The project remains strictly focused on identifying plausible 50X–100X+ outcomes. During that research, a company may occasionally reveal a compelling investment case that deserves separate discovery even though its strict 100X path is insufficient or uncertain.
+
+This is represented by the boolean `beyond_100x` flag in the same canonical company record. It is a **discovery flag**, not a second status, score, portfolio, or recommendation. The Beyond 100X experience is a filtered view of `data/universe.json`; no second universe or duplicate company record exists.
+
+- `CORE` companies must have `beyond_100x: false` because they are already surfaced by the primary framework.
+- `WATCH`, `FRONTIER`, and `REJECTED` companies may have `beyond_100x: true` only when a specific alternative investment case has been explicitly researched and documented.
+- Failing the 100X test does not automatically qualify a company for Beyond 100X.
+
 ## Identity
 
 Each listed security uses its **ISIN as the canonical `id`**. Ticker is retained as the trading/display symbol. Exchange is intentionally excluded from the core research identity. The initial geography scope is **India and USA**.
