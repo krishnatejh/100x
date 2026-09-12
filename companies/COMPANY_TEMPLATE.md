@@ -47,6 +47,17 @@ Start with current market cap and calculate:
 
 Reverse-engineer the 100X outcome into required future revenue, margins, profit, market share and CAGR.
 
+## Shareholder Outcome
+
+Assess whether exceptional business growth can translate into exceptional per-share returns.
+
+- **Capital intensity / growth capital required:**
+- **Likely funding:** Internal cash / Debt / Equity / Mixed
+- **Dilution risk:** Low / Medium / High
+- **Per-share outcome:** Does the 50X/100X thesis materially survive reasonable funding and dilution assumptions?
+
+Use qualitative or scenario-based analysis where material. Avoid false precision.
+
 ## 7. Valuation / expectations priced in
 
 Assess P/E, EV/EBITDA, P/S, P/B, FCF yield, market-cap/revenue, market-cap/profit and/or reverse DCF as appropriate.
