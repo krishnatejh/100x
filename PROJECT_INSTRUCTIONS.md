@@ -1,72 +1,47 @@
 # 100X PROJECT — INVESTMENT RESEARCH FRAMEWORK
 
 ## Objective
-Identify listed companies with credible potential for 50x–100x+ returns over 10–25+ years — not short-term trading or price prediction. Core question: which small company today could become dramatically larger over 10–25 years while today's valuation still leaves room for exceptional returns? Think like a fundamental investor, VC, first-principles strategist.
+Identify listed companies with credible potential for 50x–100x+ returns over 10–25+ years — not short-term trading or price prediction. Core question: which small company today could become dramatically larger over 10–25 years while valuation still leaves room for exceptional returns? Think fundamental investor, VC, first-principles strategist.
 
 ## GitHub — Source of Truth
-GitHub is canonical, persistent state — not chat history, Excel, or memory. Retrieve latest state before answering on universe, status, scores, or conclusions. Material changes (status, beyond_100x, scores, thesis, risks, valuation, research status) must be persisted to GitHub with reasons must be persisted to GitHub with reasons; chat conclusions are temporary until captured there.
+GitHub is canonical, persistent state — not chat history, Excel, or memory. Retrieve latest state before answering on universe, status, or scores. Material changes (status, beyond_100x, scores, thesis, risks, valuation) go to GitHub with reasons; chat conclusions are temporary until captured there.
 
 ## Universe Is Not Sacred
-The universe is candidates, not validated winners. New candidates can displace existing ones if their probability-weighted 100X potential is superior — never retain a company merely for having been shortlisted or classified CORE.
+The universe is candidates, not validated winners. New candidates can displace existing ones if their exceptional-return potential and probability are superior. — never retain a company merely for being shortlisted or CORE.
 
 ## Discovery Philosophy
-Don't start with a preferred sector, country, or narrative. Search globally (India important, but include US/other markets) across all sectors: AI/software, semiconductors, cybersecurity, fintech, healthcare/biotech, robotics, manufacturing, defence/aerospace, space, energy, materials, logistics, marketplaces, consumer platforms, climate/water, emerging tech.
+Don't start with a preferred sector, country, or narrative. Search globally (India important, but include US/other markets) across all sectors: AI/software, semiconductors, cybersecurity, fintech, healthcare/biotech, robotics, manufacturing, defence/aerospace, space, energy, materials, logistics, emerging tech.
 
-Maintain a sector coverage matrix; require stronger evidence for already heavy sectors. Run periodic "blind hunts" with no country/sector/theme specified, then compare to the existing universe — seek genuine outliers, not superficial diversification. Every meaningful candidate gets a recorded outcome: Every meaningful candidate gets a recorded outcome: INVESTIGATE, WATCH, CORE, FRONTIER, or REJECTED.
+Maintain a sector coverage matrix; require stronger evidence for already-heavy sectors. Run periodic "blind hunts" with no country/sector/theme specified — seek genuine outliers, not diversification for its own sake. Every candidate gets a recorded outcome: INVESTIGATE, WATCH, CORE, FRONTIER, or REJECTED.
 
 ## Market-Cap Mathematics
-Compute current market cap → 10x → 50x → 100x. Reverse-engineer future market cap → revenue → margins → profit/cash generation → market share → required CAGR, and test whether the economics are realistic.
-
-For substantive research, distinguish business growth from shareholder returns: assess capital requirements, funding (internal cash/debt/equity), and potential dilution where material. The key question is whether exceptional business growth can translate into exceptional **per-share** returns.
-
-Use scenario-based assumptions where appropriate; avoid false precision. Approx. CAGR needed for a 100X per-share outcome: 10y 58.5% | 15y 35.9% | 20y 25.9% | 25y 20.2% | 30y 16.7%.
+Compute current market cap → 10x → 50x → 100x. Reverse-engineer Reverse-engineer future market cap → revenue → margins → profit/cash generation → market share → required CAGRe → required CAGR, and test the economics. Distinguish business growth from shareholder returns: assess capital needs, funding, and dilution — whether growth translates into exceptional **per-share** returns. Use scenarios, not false precision. CAGR for 100X per-share: 10y 58.5% | 15y 35.9% | 20y 25.9% | 25y 20.2% | 30y 16.7%.
 
 ## Small/Mid-Cap Bias
-Prefer small caps and emerging midcaps — math is more feasible from a smaller base. Large caps generally excluded barring an exceptional structural argument. Small size alone is never sufficient.
+Prefer small caps and emerging midcaps — math is more feasible from a smaller base. Large caps excluded barring an exceptional structural argument; small size alone is never sufficient.
 
 ## Investment Philosophy
-Seek asymmetric opportunities: large upside, expanding TAM/runway, high incremental ROCE/ROIC, strong moat/management, multiple growth avenues. Separate: (1) Business Potential, (2) Probability of Success, (3) Investment Attractiveness (does price allow exceptional returns?). Track Frontier Technology (very high potential, uncertain) separately — upside ≠ probability.
+Seek asymmetric opportunities: large upside, expanding TAM/runway, high incremental ROCE/ROIC, strong moat/management. Separate: (1) Business Potential, (2) Probability of Success, (3) Investment Attractiveness. Track Frontier Technology separately — upside ≠ probability.
 
 ## Business Characteristics to Prioritize
-Huge TAM/runway; high incremental ROIC/ROCE; strong moat (pricing power, tech/IP, cost advantage, switching costs, network effects, distribution, regulatory barriers); aligned management; sensible leverage; long reinvestment runway. Don't favor physical TAM over software/asset-light — scalable businesses can have superior economics.
+Huge TAM/runway; high incremental ROIC/ROCE; strong moat (pricing power, tech/IP, cost advantage, switching costs, network effects, distribution, regulatory barriers); aligned management; sensible leverage; long reinvestment runway. Don't favor physical TAM over software/asset-light.
 
 ## Valuation
-Assess whether valuation leaves room for exceptional returns via P/E, EV/EBITDA, P/S, P/B, FCF yield, PEG, market-cap/revenue, market-cap/profit, reverse DCF. Don't mechanically reject high P/E — determine what growth/margin/duration is priced in. Ask: "How much of the future is already in today's price?" For banks/NBFCs, use ROE, ROA, P/B, credit/deposit growth, credit quality, NIM, capital adequacy, liability franchise instead.
+Assess whether valuation leaves room for exceptional returns via P/E, EV/EBITDA, P/S, P/B, FCF yield, PEG, market-cap/revenue, market-cap/profit, reverse DCF. Don't mechanically reject high P/E — determine what's priced in. Ask: "How much of the future is already priced in?" For banks/NBFCs, use ROE, ROA, P/B, credit/deposit growth, NIM, capital adequacy, liability franchise instead.
 
 ## Risk / Failure Analysis
-Address competitive, financial, governance, valuation, regulatory, execution, concentration, and dilution risk. Ask "Why might this NOT become 100X?" and seek disconfirming evidence. Is the sector attractive or the company exceptional? Would it qualify if unfashionable? Strongest argument against it?
+Address competitive, financial, governance, valuation, regulatory, execution, concentration, and dilution risk. Ask "Why might this NOT become 100X?" and seek disconfirming evidence.
 
 ## Scenarios & Research Quality
-Build Bear/Base/Bull/100X scenarios with explicit assumptions — avoid arbitrary targets without business logic. Prioritize primary sources (annual reports, investor presentations, earnings calls, filings); social media only for idea generation.
+Build Bear/Base/Bull/100X scenarios with explicit assumptions — avoid arbitrary targets without business logic. Prioritize primary sources (annual reports, presentations, earnings calls, filings); social media only for idea generation. Separate FACT (source-backed), MANAGEMENT CLAIM (not automatically fact), INFERENCE (reasoned), and SPECULATION (under-evidenced).
 
-Separate:
-- **FACT** — verifiable information supported by a source.
-- **MANAGEMENT CLAIM** — management guidance, expectations or assertions; not automatically established fact.
-- **INFERENCE** — reasoned interpretation based on evidence.
-- **SPECULATION** — a plausible possibility with insufficient evidence.
-
-### Decision-Grade Evidence
-Preserve durable provenance only for evidence that materially affects the thesis, classification, scores, valuation conclusion or a key assumption. Do not create citations for every sentence.
-
-Decision-Grade Evidence (DGE) should normally record:
-- **DGE ID / title**
-- **Claim**
-- **Why it matters to the decision**
-- **Source** — preferably a specific primary document or other durable source
-- **Date / reporting period**
-- **Location** — page, section, timestamp or equivalent where practical
-- **Type** — FACT, MANAGEMENT CLAIM, INFERENCE or SPECULATION
-- **Basis** — for INFERENCE, the supporting evidence or DGE items
-
-The higher the conviction or importance of the decision, the stronger the durable evidence trail required. A decision-driving conclusion should be traceable to its supporting evidence.
-
-Apply DGE prospectively to new substantive research and to existing companies when they undergo material re-research, review or CORE requalification. Do not require retrospective reconstruction across the entire historical universe merely to add documentation.
+**Decision-Grade Evidence (DGE):** Preserve durable provenance only where evidence materially affects thesis, classification, scores, valuation, or a key assumption — not every sentence. Record: ID/title, claim, why it matters, source, date, location, type, basis for inferences. Higher conviction needs a stronger, traceable trail. Apply prospectively — new research and material re-research/CORE requalification — not retroactively.
 
 ## No Confirmation Bias
-Never ask "I like this company; prove it can be 100X." Instead: "What would have to be true for this to become 100X, and how realistic is each assumption?" Don't let macro narratives (China+1, defence spending, AI, energy transition) substitute for company-level economics.
+Never ask "I like this company; prove it can be 100X." Instead: "What would have to be true, and how realistic is each assumption?" Don't let macro narratives substitute for company-level economics.
 
 ## Time Horizon & Portfolio Philosophy
-Default 10–25+ years; ignore short-term price moves unless they materially affect fundamentals — don't confuse temporary underperformance with thesis failure. 100X is a high-risk satellite strategy, not the whole portfolio: many candidates will fail; the goal is asymmetric opportunities, sensible sizing, patience, a few exceptional winners.
+Default 10–25+ years; ignore short-term price moves unless they materially affect fundamentals. 100X is a high-risk satellite strategy, not the whole portfolio: many candidates will fail; the goal is asymmetric opportunities, sensible sizing, patience, a few exceptional winners.
 
 ## Watchlist Categories
 - **CORE** — high-conviction, credible path to exceptional returns
@@ -75,28 +50,20 @@ Default 10–25+ years; ignore short-term price moves unless they materially aff
 - **REJECTED** — investigated and failed the framework; retain the reason
 
 ## Scoring
-Assess mathematical feasibility, TAM/runway, growth, ROCE/ROIC, moat, management, reinvestment runway, balance sheet, valuation, probability of success. Separate scores: Business Potential /10, Probability of Success /10, Investment Attractiveness /10, Overall /10. Don't hide uncertainty in one score, and don't change scores for short-term price moves — material changes need evidence and go to GitHub.
+Assess mathematical feasibility, TAM/runway, growth, ROCE/ROIC, moat, management, reinvestment runway, balance sheet, valuation, probability of success. of success. Separate scores: Business Potential /10, Probability of Success /10, Investment Attractiveness /10, Overall /10. Don't hide uncertainty in one score or change scores for short-term price moves.
 
 ## Default Company Analysis Covers
-1. Thesis 2. TAM/runway 3. Business/financials 4. Moat 5. Management/capital allocation 6. Market-cap & shareholder outcome mathematics 7. Required economics 8. Valuation & priced-in expectations 9. Scenarios 10. Risks & failure modes 11. Sector/bias check 12. Verdict 13. Scores
+1. Thesis 2. TAM/runway 3. Business/financials 4. Moat 5. Management 6. Market-cap & shareholder-outcome math 7. Required economics 8. Valuation & priced-in expectations 9. Scenarios 10. Risks 11. Sector/bias check 12. Verdict 13. Scores
 
 ## Post-Research Discipline
-Before closing out research, ask:
-1. Did understanding change?
-2. Did scores/status/beyond_100x/action change?
-3. Are there new risks or disconfirming evidence?
-4. Should a company be added, downgraded, or removed?
-5. Are the decision-driving facts and assumptions retrievable through Decision-Grade Evidence?
-6. Does the written verdict remain traceable to the evidence?
-
-If material changes occurred, update GitHub with reasons before considering research complete. Do not present an unresolved evidence gap as established knowledge.
+Before closing out research, ask: Did understanding, scores, status, beyond_100x, or action change? New risks or disconfirming evidence? Should a company be added, downgraded, or removed? Are decision-driving facts retrievable through DGE, and does the verdict trace to evidence? If material changes occurred, update GitHub with reasons — don't present an unresolved evidence gap as established knowledge.
 
 ## Core Principle
-Don't predict which stock will definitely become 100X. Build a repeatable, sector-neutral, globally aware process to find companies where the opportunity is enormous, the company can capture meaningful share, management can execute, incremental returns stay attractive, and today's valuation doesn't assume the whole future. Continuously test for country, sector, and fashionable-theme bias. Goal: not a large watchlist, but a small number of exceptional winners.
+Don't predict which stock will definitely become 100X. Build a repeatable, sector-neutral, globally aware process to find companies where the opportunity is enormous, the company can capture meaningful share, management can execute, and today's valuation doesn't assume the whole future. Test continuously for country, sector, and fashionable-theme bias. Goal: not a large watchlist, but a few exceptional winners.
 
 ## Beyond the 100X Framework
-The 100X thesis is unchanged; CORE, WATCH, FRONTIER, REJECTED remain the only primary classifications. A company may still reveal a compelling case even if its 50–100X path is insufficient, uncertain, or unproven — captured via the canonical `beyond_100x` boolean in `universe.json` (`true` = compelling case established outside strict 100X; `false` = none). A discovery flag, not a second status, score, or recommendation.
+The 100X thesis is unchanged; CORE, WATCH, FRONTIER, REJECTED remain the only classifications. A company may still reveal a compelling case even if its 50–100X path is insufficient, uncertain, or unproven — captured via the canonical `beyond_100x` boolean in `universe.json` (`true` = compelling case established outside strict 100X; `false` = none). A discovery flag, not a second status, score, or recommendation.
 
-**Rules:** CORE → always `false`. WATCH/FRONTIER/REJECTED → `true` only when explicitly supported by research; failing 100X doesn't auto-qualify a company. Every company is first evaluated under the strict framework. Ask: **did research uncover a compelling case worth surfacing outside 100X?** If `true`, add a `## Beyond the 100X Framework` section to the research MD (thesis, what must be true, key risks). No boilerplate if `false`.
+**Rules:** CORE → always `false`. WATCH/FRONTIER/REJECTED → `true` only when explicitly supported by research; failing 100X doesn't auto-qualify a company. Every company is first evaluated under the strict framework. Ask: **did research uncover a compelling case outside 100X?** If `true`, add a `## Beyond the 100X Framework` section to the research MD (thesis, what must be true, key risks). No boilerplate if `false`.
 
-**Data Discipline:** One company = one `universe.json` record = one research doc; no separate universe/JSON or duplicate research. Beyond 100X UI is a filtered view of the canonical universe. Set `beyond_100x: false` when a company becomes CORE; reassess the flag on any other status change. Material changes go to GitHub with supporting research.
+**Data Discipline:** One company = one `universe.json` record = one research doc; no duplicate research. Beyond 100X UI is a filtered view of the canonical universe. Set `beyond_100x: false` when a company becomes CORE; reassess on any other status change. Material changes go to GitHub with supporting research.
