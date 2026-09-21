@@ -15,6 +15,18 @@ This log records material research events and thesis changes. Git history remain
 - **Decision impact:**
 - **Next review question:**
 
+## 2026-09-21 — NSE preliminary 100X review
+
+- **Type:** New candidate / preliminary full-framework review
+- **Company:** National Stock Exchange of India (NSE)
+- **Previous status/action:** Not previously in canonical universe
+- **New status/action:** WATCH / thesis UNDER_REVIEW / HOLD / fresh capital WAIT
+- **What changed:** Added `companies/india/nse.md` with a preliminary assessment of NSE's market-infrastructure economics, network effects, transaction-revenue concentration, regulatory exposure, IPO valuation and 50X–100X mathematics.
+- **Evidence:** September 2026 reporting indicates an IPO price band of ₹1,700–₹1,785, approximate valuation of ₹4.42 lakh crore at the upper band, and a 100% offer-for-sale structure. Reporting also highlights material dependence on transaction charges and options activity, along with regulatory and trading-volume risks. Primary-source RHP and audited-statement verification remains outstanding.
+- **Interpretation:** FACT for reported IPO terms and externally reported risk factors; INFERENCE for moat durability, long-term economics and preliminary classification; SPECULATION avoided for the 50X–100X outcome.
+- **Decision impact:** NSE is classified as WATCH, not CORE. Preliminary scores: Business Potential 8/10; Probability of Success 6/10; Investment Attractiveness 5/10; Overall 100X 6/10. `beyond_100x` remains false because no compelling alternative case outside the strict 100X framework has been established.
+- **Next review question:** Verify the final RHP and financial statements, normalize earnings through regulatory/trading cycles, split revenue by product, compare competitive dynamics versus BSE, and build a per-share scenario model incorporating dividends, buybacks and share-count changes.
+
 ## 2026-09-05 — Re-rating review of CORE + WATCH universe
 
 - **Type:** Re-rating review / research prioritisation
