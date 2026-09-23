@@ -1278,6 +1278,34 @@
         "DIGITAL_PAYMENTS"
       ],
       "beyond_100x": true
+    },
+    {
+      "id": "INE0VDM01015",
+      "name": "Meesho",
+      "ticker": "MEESHO",
+      "country": "India",
+      "currency": "INR",
+      "sector": "CONSUMER_DISCRETIONARY",
+      "status": "WATCH",
+      "research_path": "companies/india/meesho.md",
+      "last_reviewed": "2026-09-23",
+      "scores": {
+        "business_potential": 9,
+        "probability_of_success": 6.5,
+        "investment_attractiveness": 3.5,
+        "overall_100x": 6
+      },
+      "thesis_health": "STRENGTHENING",
+      "position_action": "HOLD",
+      "fresh_capital_action": "WAIT",
+      "industry": "DIGITAL_PLATFORMS",
+      "themes": [
+        "E_COMMERCE",
+        "AI",
+        "DIGITAL_TRANSFORMATION",
+        "TELECOM_INFRASTRUCTURE"
+      ],
+      "beyond_100x": true
     }
   ]
 }
