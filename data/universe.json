@@ -1305,6 +1305,33 @@
         "DIGITAL_TRANSFORMATION"
       ],
       "beyond_100x": true
+    },
+    {
+      "id": "INE721I01024",
+      "name": "National Stock Exchange of India",
+      "ticker": "NSE",
+      "country": "India",
+      "currency": "INR",
+      "sector": "FINANCIALS",
+      "status": "WATCH",
+      "research_path": "companies/india/nse.md",
+      "last_reviewed": "2026-09-21",
+      "scores": {
+        "business_potential": 8,
+        "probability_of_success": 6,
+        "investment_attractiveness": 5,
+        "overall_100x": 6
+      },
+      "thesis_health": "UNDER_REVIEW",
+      "position_action": "HOLD",
+      "fresh_capital_action": "WAIT",
+      "industry": "MARKET_INFRASTRUCTURE",
+      "themes": [
+        "FINANCIAL_INFRASTRUCTURE",
+        "CAPITAL_MARKETS",
+        "DIGITAL_TRANSFORMATION"
+      ],
+      "beyond_100x": false
     }
   ]
 }
