@@ -150,3 +150,15 @@ This log records material research events and thesis changes. Git history remain
 - **Interpretation:** FACT for reported financial/order-book/concentration data; INFERENCE for the transformation thesis and moat; MODEL/INFERENCE for 50X–100X mathematics. The arithmetic does not disqualify 100X: approximately mid-teens revenue CAGR over 20 years can mathematically reach the required scale if margins expand substantially. However, current cash conversion, working capital, leverage and unproven renewable economics make the probability of that outcome low today.
 - **Decision impact:** Added as WATCH. beyond_100x remains false because research did not establish a sufficiently compelling alternative case outside the strict 100X framework. Fresh capital remains WAIT.
 - **Next review question:** Does renewable/BESS scaling produce sustained margin expansion, positive FCF, >20% incremental ROCE and lower working-capital intensity without material dilution?
+
+## 2026-10-01 — Orient Cables (India) — Full 100X Review
+
+- **Classification:** WATCH
+- **Beyond 100X:** false
+- **Scores:** Business Potential 8.0 / Probability of Success 5.0 / Investment Attractiveness 4.0 / Overall 100X 5.5
+- **Position:** HOLD (tracking/IPO allocation); **Fresh capital:** WAIT
+- **Key evidence:** FY24–FY26 revenue grew from ~₹658 Cr to ~₹1,172 Cr (~33.5% CAGR), but FY26 PAT was ~₹53.6 Cr and broadly flat YoY; EBITDA margin fell to 8.23% from 10.17% in FY25. OCF was negative in FY25/FY26 and NWC days increased to 48. Specialty power/optical-fibre mix rose to 21.4% of FY26 revenue and 31.2% in Q1 FY27. The RHP/1Lattice report indicates ~22.9% FY26 networking-cable market share.
+- **100X math:** At ₹272 IPO price / ~₹3,095 Cr post-issue market cap, 100X requires ~₹3.10 lakh Cr equity value. At 25x terminal P/E and 15% net margin, this implies ~₹82,500 Cr revenue and ~23% revenue CAGR over 20 years. The arithmetic is possible but highly demanding.
+- **Decision-driving risks:** cash conversion, working capital, customer concentration, margin compression, leverage, competition, new-product execution, valuation, and the Orient brand dispute.
+- **Next research question:** Can FY27–FY29 demonstrate sustained >10–11% EBITDA margin, positive OCF exceeding PAT, NWC normalisation, ROCE >20%, declining leverage and meaningful higher-value specialty/fibre revenue?
+- **Research doc:** `companies/india/orient-cables.md`
