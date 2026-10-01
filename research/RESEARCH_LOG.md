@@ -162,3 +162,13 @@ This log records material research events and thesis changes. Git history remain
 - **Decision-driving risks:** cash conversion, working capital, customer concentration, margin compression, leverage, competition, new-product execution, valuation, and the Orient brand dispute.
 - **Next research question:** Can FY27–FY29 demonstrate sustained >10–11% EBITDA margin, positive OCF exceeding PAT, NWC normalisation, ROCE >20%, declining leverage and meaningful higher-value specialty/fibre revenue?
 - **Research doc:** `companies/india/orient-cables.md`
+
+## 2026-10-01 — Runwal Enterprises — Full 100X Review
+
+- Classification: WATCH; beyond_100x: false.
+- Scores: Business Potential 8.0 / Probability of Success 4.0 / Investment Attractiveness 4.5 / Overall 100X 5.5.
+- Key evidence: 88.37 msf developable/estimated developable area; 19 completed, 28 ongoing and 33 upcoming projects. FY26 revenue ₹1,798.9 Cr, EBITDA ₹349.8 Cr, PAT ₹185.8 Cr; bookings/sales value ₹2,353.5 Cr. CFO remained negative at approximately -₹180.7 Cr in FY26, with FY26 inventory ~₹8,451 Cr and total debt ~₹2,909 Cr.
+- IPO: ₹500 Cr fresh issue at ₹290–305; ~₹325 Cr intended for debt repayment/prepayment.
+- 100X math: ~₹4,508 Cr starting equity value at ₹305; 100X requires ~₹4.51 lakh Cr. At 25x terminal P/E and 15% margin, required revenue ~₹1.20 lakh Cr and ~23.1% 20-year CAGR.
+- Decisive research question: can Runwal convert its pipeline into high-ROIC, cash-generative, increasingly asset-light growth without rebuilding leverage?
+- Research doc: companies/india/runwal-enterprises.md
