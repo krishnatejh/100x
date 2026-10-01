@@ -137,3 +137,16 @@ This log records material research events and thesis changes. Git history remain
 - **Interpretation:** FACT for reported financials, disclosed business lines and publicly disclosed contract arrangements; INFERENCE for moat and long-term value capture; SPECULATION explicitly separated for 50X–100X outcomes.
 - **Decision impact:** ESDS is not promoted to CORE. It enters as a HIGH-PRIORITY WATCH with fresh capital WAIT. Current valuation and unresolved contract/unit-economics risk materially reduce investment asymmetry.
 - **Next review question:** Do AI infrastructure deployments convert into independently verifiable revenue, sustained utilisation, attractive incremental ROIC and durable free cash flow without excessive leverage or dilution?
+
+## 2026-10-01 — ArMee Infotech full 100X review
+
+- **Type:** Full research / new candidate added
+- **Company:** ArMee Infotech (ARMEE)
+- **Previous status/action:** Not previously in canonical universe
+- **New status/action:** WATCH / thesis UNDER_REVIEW / HOLD / fresh capital WAIT
+- **What changed:** Completed a full 100X framework review after the September 2026 IPO/listing. The research covered the IT-infrastructure base, Government/PSU concentration, renewable EPC/PPA/BESS pivot, order book, financial quality, working capital, leverage, moat, management, valuation and per-share 50X/100X mathematics. Added companies/india/armee-infotech.md and the canonical record to data/universe.json.
+- **Scores:** Business Potential 7.0/10; Probability of Success 4.0/10; Investment Attractiveness 5.0/10; Overall 100X 5.0/10.
+- **Evidence:** FY26 revenue ₹1,396.63 crore and PAT ₹45.47 crore; FY26 renewable revenue 8.93%; June 2026 standalone order book ₹2,663.44 crore with 88.38% renewable according to prospectus-derived disclosures; consolidated order book reported around ₹3,287 crore. FY26 trade receivables were about ₹541.8 crore and operating cash flow ₹12.48 crore after negative OCF in FY25. Government/PSU-linked revenue was 83.84% and top-five customer concentration about 76.7%.
+- **Interpretation:** FACT for reported financial/order-book/concentration data; INFERENCE for the transformation thesis and moat; MODEL/INFERENCE for 50X–100X mathematics. The arithmetic does not disqualify 100X: approximately mid-teens revenue CAGR over 20 years can mathematically reach the required scale if margins expand substantially. However, current cash conversion, working capital, leverage and unproven renewable economics make the probability of that outcome low today.
+- **Decision impact:** Added as WATCH. beyond_100x remains false because research did not establish a sufficiently compelling alternative case outside the strict 100X framework. Fresh capital remains WAIT.
+- **Next review question:** Does renewable/BESS scaling produce sustained margin expansion, positive FCF, >20% incremental ROCE and lower working-capital intensity without material dilution?
