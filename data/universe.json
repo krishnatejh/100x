@@ -1385,6 +1385,33 @@
         "DATA_INFRASTRUCTURE"
       ],
       "beyond_100x": false
+    },
+    {
+      "id": "INE804W01029",
+      "name": "Runwal Enterprises",
+      "ticker": "RUNWALENTR",
+      "country": "India",
+      "currency": "INR",
+      "sector": "REAL_ESTATE",
+      "status": "WATCH",
+      "research_path": "companies/india/runwal-enterprises.md",
+      "last_reviewed": "2026-10-01",
+      "scores": {
+        "business_potential": 8,
+        "probability_of_success": 4,
+        "investment_attractiveness": 4.5,
+        "overall_100x": 5.5
+      },
+      "thesis_health": "UNDER_REVIEW",
+      "position_action": "HOLD",
+      "fresh_capital_action": "WAIT",
+      "industry": "REAL_ESTATE_DEVELOPMENT",
+      "themes": [
+        "URBANIZATION",
+        "HOUSING",
+        "INFRASTRUCTURE"
+      ],
+      "beyond_100x": false
     }
   ]
 }
