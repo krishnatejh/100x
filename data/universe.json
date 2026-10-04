@@ -1412,6 +1412,33 @@
         "INFRASTRUCTURE"
       ],
       "beyond_100x": false
+    },
+    {
+      "id": "INE0A7X01010",
+      "name": "Ather Energy",
+      "ticker": "ATHERENERG",
+      "country": "India",
+      "currency": "INR",
+      "sector": "CONSUMER_DISCRETIONARY",
+      "status": "WATCH",
+      "research_path": "companies/india/ather-energy.md",
+      "last_reviewed": "2026-10-04",
+      "scores": {
+        "business_potential": 8.5,
+        "probability_of_success": 6.5,
+        "investment_attractiveness": 3.5,
+        "overall_100x": 5.8
+      },
+      "thesis_health": "UNDER_REVIEW",
+      "position_action": "HOLD",
+      "fresh_capital_action": "WAIT",
+      "industry": "AUTOMOBILES",
+      "themes": [
+        "ELECTRIFICATION",
+        "ENERGY_TRANSITION",
+        "ADVANCED_MANUFACTURING"
+      ],
+      "beyond_100x": false
     }
   ]
 }
