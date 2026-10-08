@@ -1439,6 +1439,34 @@
         "ADVANCED_MANUFACTURING"
       ],
       "beyond_100x": false
+    },
+    {
+      "id": "INE0RBQ01018",
+      "name": "Sahasra Electronic Solutions Ltd.",
+      "ticker": "SAHASRA",
+      "country": "India",
+      "currency": "INR",
+      "sector": "INFORMATION_TECHNOLOGY",
+      "status": "FRONTIER",
+      "research_path": "companies/india/sahasra-electronic-solutions.md",
+      "last_reviewed": "2026-10-08",
+      "scores": {
+        "business_potential": 8.7,
+        "probability_of_success": 5.3,
+        "investment_attractiveness": 3.8,
+        "overall_100x": 5.8
+      },
+      "thesis_health": "STRENGTHENING",
+      "position_action": "HOLD",
+      "fresh_capital_action": "WAIT",
+      "industry": "ELECTRONIC_MANUFACTURING_SERVICES",
+      "themes": [
+        "SEMICONDUCTOR_ECOSYSTEM",
+        "OSAT",
+        "ADVANCED_MANUFACTURING",
+        "CHIP_MANUFACTURING"
+      ],
+      "beyond_100x": false
     }
   ]
 }
